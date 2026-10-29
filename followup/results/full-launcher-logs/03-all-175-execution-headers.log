@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "headers_verified": 175,
+  "local_header_mutations_detected": 175,
+  "reported_chain_id": 72957,
+  "reported_client_version": "1.4.1 (6909618ba3d178884e613b329a99816ba546f62e)",
+  "scope": "All execution-header commitments referenced by the original 175 records; no transaction replay, receipt inclusion proof or independent starting-anchor authentication."
+}

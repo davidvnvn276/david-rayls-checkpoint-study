@@ -1,0 +1,20 @@
+{
+  "records": 175,
+  "original_observations": 350,
+  "parent_links": 174,
+  "committee_handoffs": 174,
+  "membership_changes": 1,
+  "distinct_certificates_pyecc": 187,
+  "new_execution_headers": 175,
+  "new_synthetic_scenarios": 7,
+  "figure_04_example_epochs": [
+    0,
+    173,
+    174
+  ],
+  "figure_04_header_hashes": {
+    "0": "0x02a4902df46b4c5d38d09f857588808e451013002ad483ba941814f68ec33014",
+    "173": "0x19d02a83c932a402b4b2e22ba83aedacb02c8f4a9e2773a5798d3eee912657f5",
+    "174": "0x847a7f69531b4134dfdeb4d5d012a85fa8f8ee2239ed8e006936a4aad7a1db08"
+  }
+}

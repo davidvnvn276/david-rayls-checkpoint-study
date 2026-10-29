@@ -1,0 +1,1612 @@
+{
+  "status": "passed",
+  "headers_verified": 175,
+  "local_header_mutations_detected": 175,
+  "original_epoch_range": [
+    0,
+    174
+  ],
+  "observed_anchor_record_hash": "0x77476aab33226e0db41008e6492234b970d3f942182321b37cc1b605f895d622",
+  "reported_chain_id": 72957,
+  "reported_client_version": "1.4.1 (6909618ba3d178884e613b329a99816ba546f62e)",
+  "capture_started_at_utc": "2026-10-29T05:15:07.166707+00:00",
+  "raw_capture_sha256": {
+    "headers-000.json": "037371a7b80a9b7c0ce04154fdf1b632bcd0461144c6df7dba65cfdb60afcb49",
+    "headers-010.json": "5f0a03bce9d54bae87f568eafb7a9688dc94db247d2819c4ac21a46efda9c58b",
+    "headers-020.json": "1f59b52387757b277aaccf7da5acaca25ccaaaee2e2212848c2ff8f15efdcc75",
+    "headers-030.json": "8c0f381a1f294b4567626739f37ccd9b26acc77452b653b7b2afd8ed1ad9bca9",
+    "headers-040.json": "3b8a9f9a65dd8d3d0ce954024804ec7f68029efa279bb92e4a86d256a72ba8b4",
+    "headers-050.json": "894446e898f583f98c4bc8d4f5b3bc11d372702382785fcaf80ba1504bfcc236",
+    "headers-060.json": "c17e58bc193bdefcb0e0ff1656465ea2552f0ad40c580956d7fac7c86e805e60",
+    "headers-070.json": "9796b148880e9d3a2a72026a0b5d81d1d2460f6e2ee4175e09581aecd4d7c070",
+    "headers-080.json": "e0ecdbd5bd3a1eddb41f14712b739fa740d83e1317ef427d72d3119a99d7f60f",
+    "headers-090.json": "ff11da686e96c9425a758d40bdb0f6426e12bd8b4eea92d2281d82321d3f9fbf",
+    "headers-100.json": "86c5afe878391f8d50a530b48eafb8665d8d81b5592da95c83b7768a8958856b",
+    "headers-110.json": "429a31196a5e3da80e20e3b391e0622eed97bc268b3790ae8b0d59f3307b3eaa",
+    "headers-120.json": "a28f263891ebcbe1b198047b9e1464225ca35f2cab8842d0be1125936a90c60c",
+    "headers-130.json": "e9aacd8500f721544d9a2e1779d5fbeb10c6b6634ae82e66b22649cc51ed5013",
+    "headers-140.json": "a4f93115d5966dedc168db6c77fea6ef5df0ed97eb363e1ceebed4ad0a5194ad",
+    "headers-150.json": "6a4705c801ee4bed3d2fd7e0a1d58ee426fd1deca0e381354914c625429b286d",
+    "headers-160.json": "6e4df53d4e5f38e5762d9928f3c0aa2c89ddb123dbe37fce25ac598db0d59eec",
+    "headers-170.json": "0fa2ecb503363ae06853c0792f9c757a21c5d356ba2f381f599f61b78ed1e333",
+    "metadata.json": "ad23118d516b347c2a54be485906505bd4c075046c7916a091d91e85dba8ab1b"
+  },
+  "headers": [
+    {
+      "epoch": 0,
+      "block": 1,
+      "signed_hash": "0x02a4902df46b4c5d38d09f857588808e451013002ad483ba941814f68ec33014",
+      "reconstructed_hash": "0x02a4902df46b4c5d38d09f857588808e451013002ad483ba941814f68ec33014",
+      "rlp_bytes": 643,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 1,
+      "block": 66846,
+      "signed_hash": "0x61d3d7d705d87a6c0943fb9fcdc08f6884852bec22a4ef52dbf9f2347991b5b7",
+      "reconstructed_hash": "0x61d3d7d705d87a6c0943fb9fcdc08f6884852bec22a4ef52dbf9f2347991b5b7",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 2,
+      "block": 133742,
+      "signed_hash": "0xe4347a547d9d4eb54596ee626d9defbd45a22ecd085442bccb976db85b1546b8",
+      "reconstructed_hash": "0xe4347a547d9d4eb54596ee626d9defbd45a22ecd085442bccb976db85b1546b8",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 3,
+      "block": 200677,
+      "signed_hash": "0x55cb4321153995bd21282598c37b6ec24074a99ce485ee28722666e82aaf8df9",
+      "reconstructed_hash": "0x55cb4321153995bd21282598c37b6ec24074a99ce485ee28722666e82aaf8df9",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 4,
+      "block": 267577,
+      "signed_hash": "0x808693b5d02fb06b7806a8d6d2f4c66d4df0a7d1122e73a6eba493a28a105ad6",
+      "reconstructed_hash": "0x808693b5d02fb06b7806a8d6d2f4c66d4df0a7d1122e73a6eba493a28a105ad6",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 5,
+      "block": 334490,
+      "signed_hash": "0xf7faec5023683cfd43a62af2d527088e146ee122128bde3712df7d1c9f07c0b2",
+      "reconstructed_hash": "0xf7faec5023683cfd43a62af2d527088e146ee122128bde3712df7d1c9f07c0b2",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 6,
+      "block": 367877,
+      "signed_hash": "0xa1c8062a6e53bd5f039396fcd870e2dc9617d5be16c0be772251643ebd04960c",
+      "reconstructed_hash": "0xa1c8062a6e53bd5f039396fcd870e2dc9617d5be16c0be772251643ebd04960c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 7,
+      "block": 433003,
+      "signed_hash": "0x3c96b214083730b229e71f963cb4f4e3bb5cd9976bd5f0cbdb502f94a3a61143",
+      "reconstructed_hash": "0x3c96b214083730b229e71f963cb4f4e3bb5cd9976bd5f0cbdb502f94a3a61143",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 8,
+      "block": 499467,
+      "signed_hash": "0x546bce676978676665287432132375957b317e1323ca87e3b6963690702dd39e",
+      "reconstructed_hash": "0x546bce676978676665287432132375957b317e1323ca87e3b6963690702dd39e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 9,
+      "block": 565500,
+      "signed_hash": "0x1eeb93eec75ecf8905fe63a0792f9a12630acd0ac818316124528e1ba386d136",
+      "reconstructed_hash": "0x1eeb93eec75ecf8905fe63a0792f9a12630acd0ac818316124528e1ba386d136",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-000.json"
+    },
+    {
+      "epoch": 10,
+      "block": 631578,
+      "signed_hash": "0x64b131d1b047b626d7939457312d94fc7b68771ec1b7a89a0f6103b272fce327",
+      "reconstructed_hash": "0x64b131d1b047b626d7939457312d94fc7b68771ec1b7a89a0f6103b272fce327",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 11,
+      "block": 697876,
+      "signed_hash": "0xac43a86d2d2065355c73800d519e29b506c1aec4e3bed1c3afa7605653b48fa5",
+      "reconstructed_hash": "0xac43a86d2d2065355c73800d519e29b506c1aec4e3bed1c3afa7605653b48fa5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 12,
+      "block": 764119,
+      "signed_hash": "0x3dcc5d0fa47b9f88fddfb542a0dd212094cc545ec280ad0442c63e9806d69458",
+      "reconstructed_hash": "0x3dcc5d0fa47b9f88fddfb542a0dd212094cc545ec280ad0442c63e9806d69458",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 13,
+      "block": 830073,
+      "signed_hash": "0x1d7d1effa00b3b3047afcab94e1f7f11a1793c247795eae54af7ffd53cd06e1e",
+      "reconstructed_hash": "0x1d7d1effa00b3b3047afcab94e1f7f11a1793c247795eae54af7ffd53cd06e1e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 14,
+      "block": 894453,
+      "signed_hash": "0xcb65cba169c127403f783ee0cc8118e7f6eacfa0651ef5674a594a868369f862",
+      "reconstructed_hash": "0xcb65cba169c127403f783ee0cc8118e7f6eacfa0651ef5674a594a868369f862",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 15,
+      "block": 960579,
+      "signed_hash": "0x351109f201a04dffd47c53b29de883afbdbbe8ad44ba33a079c1f0ff158225a6",
+      "reconstructed_hash": "0x351109f201a04dffd47c53b29de883afbdbbe8ad44ba33a079c1f0ff158225a6",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 16,
+      "block": 1027256,
+      "signed_hash": "0xdaf2ec02a0dc06342c8d1d2d16d421676aa2617d9468dda22fde29be7fbf3519",
+      "reconstructed_hash": "0xdaf2ec02a0dc06342c8d1d2d16d421676aa2617d9468dda22fde29be7fbf3519",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 17,
+      "block": 1094089,
+      "signed_hash": "0x886d3e5a3b0d2cf35063c76a4ac2f0da86016173dfe0e0e9fd3e0ddd0f57826d",
+      "reconstructed_hash": "0x886d3e5a3b0d2cf35063c76a4ac2f0da86016173dfe0e0e9fd3e0ddd0f57826d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 18,
+      "block": 1160783,
+      "signed_hash": "0xf894289252ef8b098efb6dbdaca84fc5b867a79974d9d06b39de66bc09044483",
+      "reconstructed_hash": "0xf894289252ef8b098efb6dbdaca84fc5b867a79974d9d06b39de66bc09044483",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 19,
+      "block": 1225682,
+      "signed_hash": "0x3e8b5451dd041a404d291920052f27a2b7075e6562620a7e10839fa9200c3a99",
+      "reconstructed_hash": "0x3e8b5451dd041a404d291920052f27a2b7075e6562620a7e10839fa9200c3a99",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-010.json"
+    },
+    {
+      "epoch": 20,
+      "block": 1290658,
+      "signed_hash": "0x873dd58faf8f97ba1e533b259cd66d3f3880c013fe70965bf5da2279c6db6996",
+      "reconstructed_hash": "0x873dd58faf8f97ba1e533b259cd66d3f3880c013fe70965bf5da2279c6db6996",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 21,
+      "block": 1356897,
+      "signed_hash": "0x22db33c4f901fcd26e2aa9ba129022abc319ef3266266b1fac6f7d6ef040b15c",
+      "reconstructed_hash": "0x22db33c4f901fcd26e2aa9ba129022abc319ef3266266b1fac6f7d6ef040b15c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 22,
+      "block": 1423256,
+      "signed_hash": "0x57bf60e06d8142ebd2d810ff8ce0bb13895cb9eab94d6b2fa1cd5327a182a5ac",
+      "reconstructed_hash": "0x57bf60e06d8142ebd2d810ff8ce0bb13895cb9eab94d6b2fa1cd5327a182a5ac",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 23,
+      "block": 1489570,
+      "signed_hash": "0x5c17080f83371553cc62af410efe18e506357c07794025574647ab69dc81414c",
+      "reconstructed_hash": "0x5c17080f83371553cc62af410efe18e506357c07794025574647ab69dc81414c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 24,
+      "block": 1554995,
+      "signed_hash": "0xd2fb0d2d961f6ee1ecdac51c3170d16b17f9f1deda2a0b61caebfadd51201132",
+      "reconstructed_hash": "0xd2fb0d2d961f6ee1ecdac51c3170d16b17f9f1deda2a0b61caebfadd51201132",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 25,
+      "block": 1620746,
+      "signed_hash": "0x180dd3f350a21e724edc0f474f4afe13a047d0691eabaf2d8e9e64df37d1312a",
+      "reconstructed_hash": "0x180dd3f350a21e724edc0f474f4afe13a047d0691eabaf2d8e9e64df37d1312a",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 26,
+      "block": 1687097,
+      "signed_hash": "0x0f16c7d8de7fd9d1469a61a7beca1ea33eb8386d5e12ddeff51caf088247c4f5",
+      "reconstructed_hash": "0x0f16c7d8de7fd9d1469a61a7beca1ea33eb8386d5e12ddeff51caf088247c4f5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 27,
+      "block": 1753268,
+      "signed_hash": "0x28a227912d75f40e09f7f166537f3152937459fadd509eb24263c597a53bb8fb",
+      "reconstructed_hash": "0x28a227912d75f40e09f7f166537f3152937459fadd509eb24263c597a53bb8fb",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 28,
+      "block": 1819533,
+      "signed_hash": "0xbe08e65521a29492397c39f84d4a27e9eb1a558a573712dc45abfc32299aac9d",
+      "reconstructed_hash": "0xbe08e65521a29492397c39f84d4a27e9eb1a558a573712dc45abfc32299aac9d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 29,
+      "block": 1885564,
+      "signed_hash": "0x3fb6d61fe84fbc4c4f20cf3bf5e4d797e8211f0b3dca9aa694c5bca97b47aa15",
+      "reconstructed_hash": "0x3fb6d61fe84fbc4c4f20cf3bf5e4d797e8211f0b3dca9aa694c5bca97b47aa15",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-020.json"
+    },
+    {
+      "epoch": 30,
+      "block": 1951968,
+      "signed_hash": "0x3bb826a0d667c75955dd7daf216978ae749dce80f70c971c485b816e1488cfaf",
+      "reconstructed_hash": "0x3bb826a0d667c75955dd7daf216978ae749dce80f70c971c485b816e1488cfaf",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 31,
+      "block": 2017316,
+      "signed_hash": "0x01447bf5d7d619b63bd647068e7c1667ab5cd79ddfe7fcb6ba1ad3811cd2984c",
+      "reconstructed_hash": "0x01447bf5d7d619b63bd647068e7c1667ab5cd79ddfe7fcb6ba1ad3811cd2984c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 32,
+      "block": 2083353,
+      "signed_hash": "0x788e50e8c7f013cef78e5cb62ac08d3aef77edc3fe732cfffe49b0fe24dda103",
+      "reconstructed_hash": "0x788e50e8c7f013cef78e5cb62ac08d3aef77edc3fe732cfffe49b0fe24dda103",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 33,
+      "block": 2149667,
+      "signed_hash": "0xb23220d564e3fb32f863f9cc95ae069bda6fd482762324c236fc89df071419e9",
+      "reconstructed_hash": "0xb23220d564e3fb32f863f9cc95ae069bda6fd482762324c236fc89df071419e9",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 34,
+      "block": 2216018,
+      "signed_hash": "0xefa59ef9526135bbfe72d0ecdcaa2b369b2782a9174f2e778a4a99dd36a462f1",
+      "reconstructed_hash": "0xefa59ef9526135bbfe72d0ecdcaa2b369b2782a9174f2e778a4a99dd36a462f1",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 35,
+      "block": 2282340,
+      "signed_hash": "0x31cbc83579a91f85b5434bdf6e322297ca954b202b547c5ddbc6c9ef606ce4d5",
+      "reconstructed_hash": "0x31cbc83579a91f85b5434bdf6e322297ca954b202b547c5ddbc6c9ef606ce4d5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 36,
+      "block": 2348537,
+      "signed_hash": "0x6dd65e4d526c0e44aa31987c8b906912edf737f2d671f4edc75e4035ffeee89f",
+      "reconstructed_hash": "0x6dd65e4d526c0e44aa31987c8b906912edf737f2d671f4edc75e4035ffeee89f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 37,
+      "block": 2414768,
+      "signed_hash": "0x203fb1da82e98f0a9f7a2088a347572156136f7a076c60525424f4ce685118dd",
+      "reconstructed_hash": "0x203fb1da82e98f0a9f7a2088a347572156136f7a076c60525424f4ce685118dd",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 38,
+      "block": 2481041,
+      "signed_hash": "0x7872849504d0d0973f9bf76f2bf08a0111c22a1d9780d15b775019f5722a20bb",
+      "reconstructed_hash": "0x7872849504d0d0973f9bf76f2bf08a0111c22a1d9780d15b775019f5722a20bb",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 39,
+      "block": 2547364,
+      "signed_hash": "0x80d6302b844c694b74eb281015b7b8592c6f7d6ba544b13143529e8bcdf10fd0",
+      "reconstructed_hash": "0x80d6302b844c694b74eb281015b7b8592c6f7d6ba544b13143529e8bcdf10fd0",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-030.json"
+    },
+    {
+      "epoch": 40,
+      "block": 2613570,
+      "signed_hash": "0xafd816e7737429e2be1c4f3d99841ee75ecf4bd91b706daffd67363c2125dbec",
+      "reconstructed_hash": "0xafd816e7737429e2be1c4f3d99841ee75ecf4bd91b706daffd67363c2125dbec",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 41,
+      "block": 2679951,
+      "signed_hash": "0x4d1f9feb422ee0708010a56154e3309f79915be0903b6f02cbeaab76c7237cba",
+      "reconstructed_hash": "0x4d1f9feb422ee0708010a56154e3309f79915be0903b6f02cbeaab76c7237cba",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 42,
+      "block": 2746255,
+      "signed_hash": "0xf5edbe3ee6acde03c0515cbca223c8b087be00f660c58674ac455cf4d3c504f5",
+      "reconstructed_hash": "0xf5edbe3ee6acde03c0515cbca223c8b087be00f660c58674ac455cf4d3c504f5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 43,
+      "block": 2812554,
+      "signed_hash": "0xc7e957175a9d7684e8f106dded1629b3338ee24885577edebb90d81655de6b76",
+      "reconstructed_hash": "0xc7e957175a9d7684e8f106dded1629b3338ee24885577edebb90d81655de6b76",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 44,
+      "block": 2878792,
+      "signed_hash": "0x8e8b12c77407d9ce6c066bc11b22a74c0933343e53756e1db82928a3ca00ef8f",
+      "reconstructed_hash": "0x8e8b12c77407d9ce6c066bc11b22a74c0933343e53756e1db82928a3ca00ef8f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 45,
+      "block": 2945069,
+      "signed_hash": "0x2410575fdcaab31aeb3b546aa6374a1f27ed3476b070d7b2bbc730cf18e71f5c",
+      "reconstructed_hash": "0x2410575fdcaab31aeb3b546aa6374a1f27ed3476b070d7b2bbc730cf18e71f5c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 46,
+      "block": 3011398,
+      "signed_hash": "0x858d0715b16fe9ac2620d0d125f4d24b02f5adc4dac4fda082051c8e8a93b1f0",
+      "reconstructed_hash": "0x858d0715b16fe9ac2620d0d125f4d24b02f5adc4dac4fda082051c8e8a93b1f0",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 47,
+      "block": 3077660,
+      "signed_hash": "0x02f7af281f9b3d7bdbdc0c134c2a266c8b1cb6443c1689f44263e6a4a598ca70",
+      "reconstructed_hash": "0x02f7af281f9b3d7bdbdc0c134c2a266c8b1cb6443c1689f44263e6a4a598ca70",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 48,
+      "block": 3143664,
+      "signed_hash": "0xb8076e4e245338b13eff00918666d597dd16c81bca02da1a01f7cf420f438462",
+      "reconstructed_hash": "0xb8076e4e245338b13eff00918666d597dd16c81bca02da1a01f7cf420f438462",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 49,
+      "block": 3209622,
+      "signed_hash": "0x6bbe9ccc6d2b6a4d1b35364567b5f2a8d618d7ea5e08e804674d07692b57f3e3",
+      "reconstructed_hash": "0x6bbe9ccc6d2b6a4d1b35364567b5f2a8d618d7ea5e08e804674d07692b57f3e3",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-040.json"
+    },
+    {
+      "epoch": 50,
+      "block": 3275396,
+      "signed_hash": "0xfcd1d23e384962ca0d6c17446cfd6aa20f1ce567faa4f240f6e475fcb9432959",
+      "reconstructed_hash": "0xfcd1d23e384962ca0d6c17446cfd6aa20f1ce567faa4f240f6e475fcb9432959",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 51,
+      "block": 3341704,
+      "signed_hash": "0xf1f7c93d1009f532b86b8e3504c33a1d56ac82a2c1af28781ccc9d87e0035563",
+      "reconstructed_hash": "0xf1f7c93d1009f532b86b8e3504c33a1d56ac82a2c1af28781ccc9d87e0035563",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 52,
+      "block": 3382452,
+      "signed_hash": "0x76ab0ef786696074decfb85d864830e844bf541bed7ef219f242bf7a73395b45",
+      "reconstructed_hash": "0x76ab0ef786696074decfb85d864830e844bf541bed7ef219f242bf7a73395b45",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 53,
+      "block": 3448052,
+      "signed_hash": "0x9dee149395759d6c43e2711d73a93105f22689254a5548e2e578d39b70b54033",
+      "reconstructed_hash": "0x9dee149395759d6c43e2711d73a93105f22689254a5548e2e578d39b70b54033",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 54,
+      "block": 3514185,
+      "signed_hash": "0x4daba0388976cfbdbab5a1f4b90ae386503175d73d0b7bb18daca260c0e34292",
+      "reconstructed_hash": "0x4daba0388976cfbdbab5a1f4b90ae386503175d73d0b7bb18daca260c0e34292",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 55,
+      "block": 3579886,
+      "signed_hash": "0xe5f3edd8fd1751b961aee8cdcf5e22670443734242737e0bd30928582301d6db",
+      "reconstructed_hash": "0xe5f3edd8fd1751b961aee8cdcf5e22670443734242737e0bd30928582301d6db",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 56,
+      "block": 3646469,
+      "signed_hash": "0xdcacf488f6cb2bcf31d3ab034d9d41f0582638c6a1104d3cba82ff2a5bc141f0",
+      "reconstructed_hash": "0xdcacf488f6cb2bcf31d3ab034d9d41f0582638c6a1104d3cba82ff2a5bc141f0",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 57,
+      "block": 3713092,
+      "signed_hash": "0xc3b54d115d2884f8cc3a2aa671d210972e73f5651a87b8ab606cec546df34a75",
+      "reconstructed_hash": "0xc3b54d115d2884f8cc3a2aa671d210972e73f5651a87b8ab606cec546df34a75",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 58,
+      "block": 3779728,
+      "signed_hash": "0xa93b4900cb7e8e5601c33b2b7a20e0c43139e4f5d3efa7a9ea1486072912aa6a",
+      "reconstructed_hash": "0xa93b4900cb7e8e5601c33b2b7a20e0c43139e4f5d3efa7a9ea1486072912aa6a",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 59,
+      "block": 3846250,
+      "signed_hash": "0x360260a0d77325c79a9a4479673620b0fe864283195bcdb5795c10b33d917ec8",
+      "reconstructed_hash": "0x360260a0d77325c79a9a4479673620b0fe864283195bcdb5795c10b33d917ec8",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-050.json"
+    },
+    {
+      "epoch": 60,
+      "block": 3912871,
+      "signed_hash": "0x02b21ebda3c189aba8b22735d818e1833eef57e8b9a6d6e787f0c77f106931b0",
+      "reconstructed_hash": "0x02b21ebda3c189aba8b22735d818e1833eef57e8b9a6d6e787f0c77f106931b0",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 61,
+      "block": 3979455,
+      "signed_hash": "0x8d629d3f0b6cbf6e91c4509d144266fded81fca0f7424121420429c47f1f39e2",
+      "reconstructed_hash": "0x8d629d3f0b6cbf6e91c4509d144266fded81fca0f7424121420429c47f1f39e2",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 62,
+      "block": 4046000,
+      "signed_hash": "0x6a1544f9ae371f1242db82386948bb3689ec5fc925f57dbe66654afbec5cf7e5",
+      "reconstructed_hash": "0x6a1544f9ae371f1242db82386948bb3689ec5fc925f57dbe66654afbec5cf7e5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 63,
+      "block": 4112357,
+      "signed_hash": "0xefec26ca24094f79f0cd5ab5933e93baabec1ae3f5c1c2da8f1bfc110e893439",
+      "reconstructed_hash": "0xefec26ca24094f79f0cd5ab5933e93baabec1ae3f5c1c2da8f1bfc110e893439",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 64,
+      "block": 4178839,
+      "signed_hash": "0x7cd11569707fd664254ef8055533811ef248f21dee00de6b4cdd801ccb7e63d3",
+      "reconstructed_hash": "0x7cd11569707fd664254ef8055533811ef248f21dee00de6b4cdd801ccb7e63d3",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 65,
+      "block": 4245506,
+      "signed_hash": "0xa1bbdc2774e3f582f6ceadac6541e4d728cae93ac94e65125d8cfea4373600e6",
+      "reconstructed_hash": "0xa1bbdc2774e3f582f6ceadac6541e4d728cae93ac94e65125d8cfea4373600e6",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 66,
+      "block": 4312040,
+      "signed_hash": "0x24266d6fbfb85bc55baa07ee83697f2012b7e802c9622dd5792bf8b196ce219c",
+      "reconstructed_hash": "0x24266d6fbfb85bc55baa07ee83697f2012b7e802c9622dd5792bf8b196ce219c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 67,
+      "block": 4378696,
+      "signed_hash": "0xed80be552f01655a787687f4d8446088b8824a2db52244213e46a3c18ad55b83",
+      "reconstructed_hash": "0xed80be552f01655a787687f4d8446088b8824a2db52244213e46a3c18ad55b83",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 68,
+      "block": 4445379,
+      "signed_hash": "0xbb5e59cc070ba20c31c63df957f1ed08a2a3edb8d3829b8dce7907f12424a9dc",
+      "reconstructed_hash": "0xbb5e59cc070ba20c31c63df957f1ed08a2a3edb8d3829b8dce7907f12424a9dc",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 69,
+      "block": 4512053,
+      "signed_hash": "0xeeaf4596c891bc5d9cc671fb8bcea0c5937a6c4b7c8ae36145f7fae6e3cb77fc",
+      "reconstructed_hash": "0xeeaf4596c891bc5d9cc671fb8bcea0c5937a6c4b7c8ae36145f7fae6e3cb77fc",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-060.json"
+    },
+    {
+      "epoch": 70,
+      "block": 4578716,
+      "signed_hash": "0x89af7c5d758a173ed63c82bcace5623d7ec4cb77d1b9a99d8f33cc1b0dbb58ef",
+      "reconstructed_hash": "0x89af7c5d758a173ed63c82bcace5623d7ec4cb77d1b9a99d8f33cc1b0dbb58ef",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 71,
+      "block": 4645369,
+      "signed_hash": "0x853ff4f3a690e92c5c23b3f97bb8218a2ae08170d01941b62101599d41f05a20",
+      "reconstructed_hash": "0x853ff4f3a690e92c5c23b3f97bb8218a2ae08170d01941b62101599d41f05a20",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 72,
+      "block": 4712024,
+      "signed_hash": "0xfacd53955b4363481a43168ad465e498ff12c4743e53c4400d1c716504f13ba2",
+      "reconstructed_hash": "0xfacd53955b4363481a43168ad465e498ff12c4743e53c4400d1c716504f13ba2",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 73,
+      "block": 4778655,
+      "signed_hash": "0x3e1b531ee5068e8070e488432edabfd74906aa72cab8735f3f0ee6789965ccb7",
+      "reconstructed_hash": "0x3e1b531ee5068e8070e488432edabfd74906aa72cab8735f3f0ee6789965ccb7",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 74,
+      "block": 4845183,
+      "signed_hash": "0x16441aa3cea04412b271ead832111294dd6afc4c09b18b54c86db99fcc7ae285",
+      "reconstructed_hash": "0x16441aa3cea04412b271ead832111294dd6afc4c09b18b54c86db99fcc7ae285",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 75,
+      "block": 4911897,
+      "signed_hash": "0xd492ed2e2253452cc433154794df02ee59c431c265e859921e8e887f47b98124",
+      "reconstructed_hash": "0xd492ed2e2253452cc433154794df02ee59c431c265e859921e8e887f47b98124",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 76,
+      "block": 4978500,
+      "signed_hash": "0xb51911642ecce6e6eb13933116b07a7f27baa500f7f15670c30ff988468dbc75",
+      "reconstructed_hash": "0xb51911642ecce6e6eb13933116b07a7f27baa500f7f15670c30ff988468dbc75",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 77,
+      "block": 5045090,
+      "signed_hash": "0x87a987f4658bde7cb88a274f6334966a52c796b4cf3946db84a25b3a15dd4031",
+      "reconstructed_hash": "0x87a987f4658bde7cb88a274f6334966a52c796b4cf3946db84a25b3a15dd4031",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 78,
+      "block": 5111647,
+      "signed_hash": "0xb629bcd9e5ccb8d0f229175f048d6e316cd30a1ef5f12b213234dc2123e9a136",
+      "reconstructed_hash": "0xb629bcd9e5ccb8d0f229175f048d6e316cd30a1ef5f12b213234dc2123e9a136",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 79,
+      "block": 5178232,
+      "signed_hash": "0x7c4ee120ef0fcf9462fb79acacd17f4742f492372aa80bb7df96a516bb51f456",
+      "reconstructed_hash": "0x7c4ee120ef0fcf9462fb79acacd17f4742f492372aa80bb7df96a516bb51f456",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-070.json"
+    },
+    {
+      "epoch": 80,
+      "block": 5244928,
+      "signed_hash": "0xf997edbbf40e697b6966b30a1fa037ff5fd7cfb8e142b8392a1d30caa18cd60b",
+      "reconstructed_hash": "0xf997edbbf40e697b6966b30a1fa037ff5fd7cfb8e142b8392a1d30caa18cd60b",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 81,
+      "block": 5311591,
+      "signed_hash": "0x6fa94f4868aa58585ad96d5a35886dcb482b3539d290ad7756feb234433d4d5f",
+      "reconstructed_hash": "0x6fa94f4868aa58585ad96d5a35886dcb482b3539d290ad7756feb234433d4d5f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 82,
+      "block": 5378229,
+      "signed_hash": "0x4a8d5cffde1329a67d1a9bde730c890b67c9192dba4232cbb8358b67f380c055",
+      "reconstructed_hash": "0x4a8d5cffde1329a67d1a9bde730c890b67c9192dba4232cbb8358b67f380c055",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 83,
+      "block": 5444759,
+      "signed_hash": "0x9f91c5014021fd5b62ac93ceec93b2d4cac2a2f1497a63e3274c83762934bf2d",
+      "reconstructed_hash": "0x9f91c5014021fd5b62ac93ceec93b2d4cac2a2f1497a63e3274c83762934bf2d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 84,
+      "block": 5511346,
+      "signed_hash": "0x913c333c024fe370860e90517800de41ceadb93397e9fa1c8958758855fda81e",
+      "reconstructed_hash": "0x913c333c024fe370860e90517800de41ceadb93397e9fa1c8958758855fda81e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 85,
+      "block": 5577894,
+      "signed_hash": "0x4c17fff2ced13d7910514ccc1ab9e01994df487f3487f8ed025c1a3d00d8c0b4",
+      "reconstructed_hash": "0x4c17fff2ced13d7910514ccc1ab9e01994df487f3487f8ed025c1a3d00d8c0b4",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 86,
+      "block": 5644403,
+      "signed_hash": "0x9c48676887a0b09c5d5b89c9f3168f89a69d4339855fdc86f80d7f697201c8c6",
+      "reconstructed_hash": "0x9c48676887a0b09c5d5b89c9f3168f89a69d4339855fdc86f80d7f697201c8c6",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 87,
+      "block": 5710937,
+      "signed_hash": "0x3176afa277db0f2e3f165d4f5264dceae0303b624b372eb29e2e2e0889760b6f",
+      "reconstructed_hash": "0x3176afa277db0f2e3f165d4f5264dceae0303b624b372eb29e2e2e0889760b6f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 88,
+      "block": 5777477,
+      "signed_hash": "0xe285f9006be6acf0fac3d0a8e419927d8f9b209955116b916a4aea06873c7873",
+      "reconstructed_hash": "0xe285f9006be6acf0fac3d0a8e419927d8f9b209955116b916a4aea06873c7873",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 89,
+      "block": 5844044,
+      "signed_hash": "0x11237a5bdd3442c7ef368478fdd75d4cc1754dad2a4abe1d779bbeb9e60024ad",
+      "reconstructed_hash": "0x11237a5bdd3442c7ef368478fdd75d4cc1754dad2a4abe1d779bbeb9e60024ad",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-080.json"
+    },
+    {
+      "epoch": 90,
+      "block": 5910579,
+      "signed_hash": "0x8d1e83385e983767b1acac7be5339c0dc79d1dd3c5d07793a1cdf3cb5f94e545",
+      "reconstructed_hash": "0x8d1e83385e983767b1acac7be5339c0dc79d1dd3c5d07793a1cdf3cb5f94e545",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 91,
+      "block": 5977009,
+      "signed_hash": "0xd431c8aee8f8ad2ff2f2c9db2b010c5af117859fd8d93a8a51b63a900f62595b",
+      "reconstructed_hash": "0xd431c8aee8f8ad2ff2f2c9db2b010c5af117859fd8d93a8a51b63a900f62595b",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 92,
+      "block": 6043515,
+      "signed_hash": "0xd38d9a5f1464fc658c0f8f660bc7ac84a0f130f7f17c93e75108b5c3e86452f5",
+      "reconstructed_hash": "0xd38d9a5f1464fc658c0f8f660bc7ac84a0f130f7f17c93e75108b5c3e86452f5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 93,
+      "block": 6109993,
+      "signed_hash": "0xeebabe267a89e5a292cf8c313b2d842aa1706c63ad1382445e9536da563d1cbf",
+      "reconstructed_hash": "0xeebabe267a89e5a292cf8c313b2d842aa1706c63ad1382445e9536da563d1cbf",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 94,
+      "block": 6176461,
+      "signed_hash": "0x1f084e5d1c05f681f457a8b993fbfcd107f837ab504212f8d1728389ae7f203a",
+      "reconstructed_hash": "0x1f084e5d1c05f681f457a8b993fbfcd107f837ab504212f8d1728389ae7f203a",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 95,
+      "block": 6242910,
+      "signed_hash": "0x52112bd7b7338b75e2e1ebf6728826af98d8305429439db7c16afc7c20284304",
+      "reconstructed_hash": "0x52112bd7b7338b75e2e1ebf6728826af98d8305429439db7c16afc7c20284304",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 96,
+      "block": 6309326,
+      "signed_hash": "0x8efc9bd8c1b7d6204da76f8191277f18bd099a0e072e8a0663c3307f260d2714",
+      "reconstructed_hash": "0x8efc9bd8c1b7d6204da76f8191277f18bd099a0e072e8a0663c3307f260d2714",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 97,
+      "block": 6375795,
+      "signed_hash": "0x89d5b9d1624327475fe7b4cfaefef10606b4c218e65e35095b05e0bfc88c2f79",
+      "reconstructed_hash": "0x89d5b9d1624327475fe7b4cfaefef10606b4c218e65e35095b05e0bfc88c2f79",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 98,
+      "block": 6442358,
+      "signed_hash": "0xbca76032c9c420c0199ba515802bdbc6b8a43476d9036bb2f8be6ee08525c2e8",
+      "reconstructed_hash": "0xbca76032c9c420c0199ba515802bdbc6b8a43476d9036bb2f8be6ee08525c2e8",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 99,
+      "block": 6508900,
+      "signed_hash": "0xf1556f5dbe729b71a397470ca9c5d1331e46c4b3db50f0bf65aa64d171d3785e",
+      "reconstructed_hash": "0xf1556f5dbe729b71a397470ca9c5d1331e46c4b3db50f0bf65aa64d171d3785e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-090.json"
+    },
+    {
+      "epoch": 100,
+      "block": 6575344,
+      "signed_hash": "0x768025fce7befd65df8740cc21f6dcfe9379ca037ebb47518d951f9da51c4b15",
+      "reconstructed_hash": "0x768025fce7befd65df8740cc21f6dcfe9379ca037ebb47518d951f9da51c4b15",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 101,
+      "block": 6641814,
+      "signed_hash": "0x2199cfd456916df682a6b68a8cd8a97b996ba3437960f758614a9ea839506ed6",
+      "reconstructed_hash": "0x2199cfd456916df682a6b68a8cd8a97b996ba3437960f758614a9ea839506ed6",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 102,
+      "block": 6708306,
+      "signed_hash": "0xefb00ae2a2b25126c0d7c97c1cd7c00e3bd68fe4ad551c71bfa17ef9f88ec8f1",
+      "reconstructed_hash": "0xefb00ae2a2b25126c0d7c97c1cd7c00e3bd68fe4ad551c71bfa17ef9f88ec8f1",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 103,
+      "block": 6774784,
+      "signed_hash": "0x8b1695b8a0e6d06eabe5513f9742995878ffba1ec62f76ad797d1ae43374af70",
+      "reconstructed_hash": "0x8b1695b8a0e6d06eabe5513f9742995878ffba1ec62f76ad797d1ae43374af70",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 104,
+      "block": 6840801,
+      "signed_hash": "0x022518d6c2b1fa832cb00889870fff244f2c44a9d20311dcef0da8b854c49d4c",
+      "reconstructed_hash": "0x022518d6c2b1fa832cb00889870fff244f2c44a9d20311dcef0da8b854c49d4c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 105,
+      "block": 6907174,
+      "signed_hash": "0x5df22c50a173d86a19931c7c8b1195b44f3be55413dacd5090e597933426987d",
+      "reconstructed_hash": "0x5df22c50a173d86a19931c7c8b1195b44f3be55413dacd5090e597933426987d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 106,
+      "block": 6973463,
+      "signed_hash": "0xac395e815b28414a58318655ffd890136c390a24c727581b6f2ff191ea07b423",
+      "reconstructed_hash": "0xac395e815b28414a58318655ffd890136c390a24c727581b6f2ff191ea07b423",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 107,
+      "block": 7039891,
+      "signed_hash": "0xf0e7518f4bec5654f47d6e24fc2743c1770a927e1a1f6c381b79cb65ac33ce94",
+      "reconstructed_hash": "0xf0e7518f4bec5654f47d6e24fc2743c1770a927e1a1f6c381b79cb65ac33ce94",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 108,
+      "block": 7106356,
+      "signed_hash": "0xaef6ef06d0388c0915770b392e087461f7e4f15421f6a5bdabcf1d2804b23452",
+      "reconstructed_hash": "0xaef6ef06d0388c0915770b392e087461f7e4f15421f6a5bdabcf1d2804b23452",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 109,
+      "block": 7172875,
+      "signed_hash": "0x33995a5c42c0612cb06c339839542329736a0a95cfb58f8c77d7f2615b19d7a1",
+      "reconstructed_hash": "0x33995a5c42c0612cb06c339839542329736a0a95cfb58f8c77d7f2615b19d7a1",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-100.json"
+    },
+    {
+      "epoch": 110,
+      "block": 7239373,
+      "signed_hash": "0x4eee45a943d63b83b35a70aa4d1cc40c0b326a2c1df1d6f9f72931e525130794",
+      "reconstructed_hash": "0x4eee45a943d63b83b35a70aa4d1cc40c0b326a2c1df1d6f9f72931e525130794",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 111,
+      "block": 7305919,
+      "signed_hash": "0xd0a8d778ac1c2448edc35b73357f45a80c25a6cb1fdd4c08a30fbaa279681f00",
+      "reconstructed_hash": "0xd0a8d778ac1c2448edc35b73357f45a80c25a6cb1fdd4c08a30fbaa279681f00",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 112,
+      "block": 7372372,
+      "signed_hash": "0xd617765cdc43694850729ecbbbe1d1a8e870508575d722dd4dc7e9952f161276",
+      "reconstructed_hash": "0xd617765cdc43694850729ecbbbe1d1a8e870508575d722dd4dc7e9952f161276",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 113,
+      "block": 7438880,
+      "signed_hash": "0xd8eb5a7a93bacc7576ed147210843cb7ecc0566e8de2a8d38c5ab4b8a14ffd29",
+      "reconstructed_hash": "0xd8eb5a7a93bacc7576ed147210843cb7ecc0566e8de2a8d38c5ab4b8a14ffd29",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 114,
+      "block": 7505171,
+      "signed_hash": "0xd5b506a07225ab41e0962fb22368e864c477a58a5caae7214f250ee56920e1c8",
+      "reconstructed_hash": "0xd5b506a07225ab41e0962fb22368e864c477a58a5caae7214f250ee56920e1c8",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 115,
+      "block": 7571257,
+      "signed_hash": "0xe37b259a95307487640f8cbfe9f32e9309557404b09c2b15cce5213a4711c4bc",
+      "reconstructed_hash": "0xe37b259a95307487640f8cbfe9f32e9309557404b09c2b15cce5213a4711c4bc",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 116,
+      "block": 7637566,
+      "signed_hash": "0xfa0095cdacd7e5d63f1e00a4be6fd7bdd455676d1650a194c5c87c3c22e4676e",
+      "reconstructed_hash": "0xfa0095cdacd7e5d63f1e00a4be6fd7bdd455676d1650a194c5c87c3c22e4676e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 117,
+      "block": 7703896,
+      "signed_hash": "0x271a18afc001376a7b8311fef4f191d98dd27358753e0e5a6ba62a1bb922c25b",
+      "reconstructed_hash": "0x271a18afc001376a7b8311fef4f191d98dd27358753e0e5a6ba62a1bb922c25b",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 118,
+      "block": 7770301,
+      "signed_hash": "0xae80dd0c57f2547a740f62443321632c20fe675191a7f8bba721d6d41a303adc",
+      "reconstructed_hash": "0xae80dd0c57f2547a740f62443321632c20fe675191a7f8bba721d6d41a303adc",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 119,
+      "block": 7836885,
+      "signed_hash": "0xb0513691d8e827a66dd11107889dadff0ac1405bd1ffd669cd9eed5182f55893",
+      "reconstructed_hash": "0xb0513691d8e827a66dd11107889dadff0ac1405bd1ffd669cd9eed5182f55893",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-110.json"
+    },
+    {
+      "epoch": 120,
+      "block": 7903132,
+      "signed_hash": "0x439a250bac1db365e6ba870ce574c34b3eec60e1bbf7fb909f3954040db7a5fd",
+      "reconstructed_hash": "0x439a250bac1db365e6ba870ce574c34b3eec60e1bbf7fb909f3954040db7a5fd",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 121,
+      "block": 7969706,
+      "signed_hash": "0x7ed51fd50044102da762d02bbbb7cd85c94eb3e0a96a68d84b1c5c77801b0089",
+      "reconstructed_hash": "0x7ed51fd50044102da762d02bbbb7cd85c94eb3e0a96a68d84b1c5c77801b0089",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 122,
+      "block": 8036268,
+      "signed_hash": "0x5e4e03c617a7c5adfa3a174ea40cdfe7adf2cdb9b913d0037be3b86ebf80dd6f",
+      "reconstructed_hash": "0x5e4e03c617a7c5adfa3a174ea40cdfe7adf2cdb9b913d0037be3b86ebf80dd6f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 123,
+      "block": 8102907,
+      "signed_hash": "0x282b713ef15093a42de55bd19be8159136a46609a82442b5bbacd6d964cc8ec5",
+      "reconstructed_hash": "0x282b713ef15093a42de55bd19be8159136a46609a82442b5bbacd6d964cc8ec5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 124,
+      "block": 8169441,
+      "signed_hash": "0x7063aa9bdeee538adea6557bc315b4112cb5a963754fdc61f4f706eb11e73ff3",
+      "reconstructed_hash": "0x7063aa9bdeee538adea6557bc315b4112cb5a963754fdc61f4f706eb11e73ff3",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 125,
+      "block": 8235990,
+      "signed_hash": "0xebf66b23e02dbc35cfdb63398b1dd2d25f5f61e7981422e3b60e3b0b47a3b811",
+      "reconstructed_hash": "0xebf66b23e02dbc35cfdb63398b1dd2d25f5f61e7981422e3b60e3b0b47a3b811",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 126,
+      "block": 8302703,
+      "signed_hash": "0x583e1c972eee68ba88fac2b8385624df7bfee3af148ad7e634d6d1c22ffcd20e",
+      "reconstructed_hash": "0x583e1c972eee68ba88fac2b8385624df7bfee3af148ad7e634d6d1c22ffcd20e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 127,
+      "block": 8369308,
+      "signed_hash": "0x13ffa7029be685ce29abe9fe8881458c3675192ade32027a1ca3d971ba2fa073",
+      "reconstructed_hash": "0x13ffa7029be685ce29abe9fe8881458c3675192ade32027a1ca3d971ba2fa073",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 128,
+      "block": 8435704,
+      "signed_hash": "0x7f78d00b497feaa770d9374e0d42a8ceecea2a05fb9086938db68bd4de575fe4",
+      "reconstructed_hash": "0x7f78d00b497feaa770d9374e0d42a8ceecea2a05fb9086938db68bd4de575fe4",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 129,
+      "block": 8502236,
+      "signed_hash": "0x229fac433fe484247749720c782cd899d5c1a9330f7e866326ad99dab9100ff3",
+      "reconstructed_hash": "0x229fac433fe484247749720c782cd899d5c1a9330f7e866326ad99dab9100ff3",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-120.json"
+    },
+    {
+      "epoch": 130,
+      "block": 8568807,
+      "signed_hash": "0x9fcba66d05f97c439cd34aec816d34684961668cc2f273ece87831aa12d530c7",
+      "reconstructed_hash": "0x9fcba66d05f97c439cd34aec816d34684961668cc2f273ece87831aa12d530c7",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 131,
+      "block": 8635405,
+      "signed_hash": "0xea279cc9beed9ec5673c98c498f4d69a584eee024b9f5f0a05e8d24c9a8abcfb",
+      "reconstructed_hash": "0xea279cc9beed9ec5673c98c498f4d69a584eee024b9f5f0a05e8d24c9a8abcfb",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 132,
+      "block": 8701957,
+      "signed_hash": "0x2e0b91b1a109d985a2ad89c32038d9e4b947bdcab18755b36f50c0a7058ecb70",
+      "reconstructed_hash": "0x2e0b91b1a109d985a2ad89c32038d9e4b947bdcab18755b36f50c0a7058ecb70",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 133,
+      "block": 8773116,
+      "signed_hash": "0x9162687fb1eb2b33f74715bdc0658692f0e1049c3f0237dbd541a0372a38c206",
+      "reconstructed_hash": "0x9162687fb1eb2b33f74715bdc0658692f0e1049c3f0237dbd541a0372a38c206",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 134,
+      "block": 8896912,
+      "signed_hash": "0x2ec92f56ad8dd9dc9ee59ddd0a332b9ff34886c08deccd8295f1d66cc1db529c",
+      "reconstructed_hash": "0x2ec92f56ad8dd9dc9ee59ddd0a332b9ff34886c08deccd8295f1d66cc1db529c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 135,
+      "block": 9020757,
+      "signed_hash": "0x30276b82017dee34fb80b67376ab6fa778f6c248a2e238084be198e941eab57b",
+      "reconstructed_hash": "0x30276b82017dee34fb80b67376ab6fa778f6c248a2e238084be198e941eab57b",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 136,
+      "block": 9142955,
+      "signed_hash": "0x8db6d8bad3512a2ccafd6ed67f76fa0cd5d1cf71229b9ac360c13f659e9b7436",
+      "reconstructed_hash": "0x8db6d8bad3512a2ccafd6ed67f76fa0cd5d1cf71229b9ac360c13f659e9b7436",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 137,
+      "block": 9267261,
+      "signed_hash": "0x2aa87447f3414f400f11d93341c5a8189728585a958b999d6642a84f720aba9e",
+      "reconstructed_hash": "0x2aa87447f3414f400f11d93341c5a8189728585a958b999d6642a84f720aba9e",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 138,
+      "block": 9391693,
+      "signed_hash": "0x335281f0bd9ad7f13aeffa590e1929feadea5b2b73f78006ee3e1cd1a6fd4d0a",
+      "reconstructed_hash": "0x335281f0bd9ad7f13aeffa590e1929feadea5b2b73f78006ee3e1cd1a6fd4d0a",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 139,
+      "block": 9516088,
+      "signed_hash": "0xd1d99410a5be92e657070f02fed3ea4609b10102795a9f744a0f2b2f16d596bd",
+      "reconstructed_hash": "0xd1d99410a5be92e657070f02fed3ea4609b10102795a9f744a0f2b2f16d596bd",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-130.json"
+    },
+    {
+      "epoch": 140,
+      "block": 9640571,
+      "signed_hash": "0x3e052eba417777645212c834a07aacd401b08d4df51b9946e4410ce6172ee50d",
+      "reconstructed_hash": "0x3e052eba417777645212c834a07aacd401b08d4df51b9946e4410ce6172ee50d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 141,
+      "block": 9764866,
+      "signed_hash": "0x0eee9bfc896de019c40a12f876332dbadbe289d25b9d6ce4d885f25481b4c6af",
+      "reconstructed_hash": "0x0eee9bfc896de019c40a12f876332dbadbe289d25b9d6ce4d885f25481b4c6af",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 142,
+      "block": 9888148,
+      "signed_hash": "0xe08d36f2d9a7e18a177e980be02072b3882b6452ba2fa87af5581ef2daf23513",
+      "reconstructed_hash": "0xe08d36f2d9a7e18a177e980be02072b3882b6452ba2fa87af5581ef2daf23513",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 143,
+      "block": 10012341,
+      "signed_hash": "0x44d708761b940c2b839aa7372d7df296ec74eef0b345948b6f947af8103ac32d",
+      "reconstructed_hash": "0x44d708761b940c2b839aa7372d7df296ec74eef0b345948b6f947af8103ac32d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 144,
+      "block": 10136186,
+      "signed_hash": "0x01c91dd51ae6f22bfb5100fce5c733f13242517748223d234513fc0494898cfb",
+      "reconstructed_hash": "0x01c91dd51ae6f22bfb5100fce5c733f13242517748223d234513fc0494898cfb",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 145,
+      "block": 10260008,
+      "signed_hash": "0x5ba4d35d4a3d27ca9e4ecf1f7271149de11177133cbfa4ca352e406083bae1a0",
+      "reconstructed_hash": "0x5ba4d35d4a3d27ca9e4ecf1f7271149de11177133cbfa4ca352e406083bae1a0",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 146,
+      "block": 10384046,
+      "signed_hash": "0xdeeaaf2b3f938169363d825597888d162d0b7f56ea9bf7e6cfa0240d04b61265",
+      "reconstructed_hash": "0xdeeaaf2b3f938169363d825597888d162d0b7f56ea9bf7e6cfa0240d04b61265",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 147,
+      "block": 10508646,
+      "signed_hash": "0x17501a76592c0522597eb70da038f21be85ad71d2772a30e90d6da9f6d15061d",
+      "reconstructed_hash": "0x17501a76592c0522597eb70da038f21be85ad71d2772a30e90d6da9f6d15061d",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 148,
+      "block": 10633047,
+      "signed_hash": "0xd212d44f04fa950dbe9ea35be63e75d1f7c839594a0c2557594dc3e6dc06b8e1",
+      "reconstructed_hash": "0xd212d44f04fa950dbe9ea35be63e75d1f7c839594a0c2557594dc3e6dc06b8e1",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 149,
+      "block": 10757541,
+      "signed_hash": "0xf77a08197a052af9bef878859518bd378509883b02f8fc814afeef95b992fa33",
+      "reconstructed_hash": "0xf77a08197a052af9bef878859518bd378509883b02f8fc814afeef95b992fa33",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-140.json"
+    },
+    {
+      "epoch": 150,
+      "block": 10882037,
+      "signed_hash": "0xf6c270bed1589a3ba2ee3d84f6737846d59ce75f9936ca30b552bac416dd4c7b",
+      "reconstructed_hash": "0xf6c270bed1589a3ba2ee3d84f6737846d59ce75f9936ca30b552bac416dd4c7b",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 151,
+      "block": 11006574,
+      "signed_hash": "0xae007d65b96fa69dddf7be48973b9cef914d9ab9601568e5ca2bb4ecd9077852",
+      "reconstructed_hash": "0xae007d65b96fa69dddf7be48973b9cef914d9ab9601568e5ca2bb4ecd9077852",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 152,
+      "block": 11130928,
+      "signed_hash": "0xe39d03e807a558533d0c7ebec4120006a900faf6bcc85759bedaff4fd0a9d3e6",
+      "reconstructed_hash": "0xe39d03e807a558533d0c7ebec4120006a900faf6bcc85759bedaff4fd0a9d3e6",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 153,
+      "block": 11255230,
+      "signed_hash": "0x3d30292a2859002eeaed495e112ca4c836d30ff0b0d78fea3e3543e793837e35",
+      "reconstructed_hash": "0x3d30292a2859002eeaed495e112ca4c836d30ff0b0d78fea3e3543e793837e35",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 154,
+      "block": 11379326,
+      "signed_hash": "0x5cc199ce71ce335e263ddaa12a4d574ca3c65c2212ccf09968ddb1ec930fa4f3",
+      "reconstructed_hash": "0x5cc199ce71ce335e263ddaa12a4d574ca3c65c2212ccf09968ddb1ec930fa4f3",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 155,
+      "block": 11503285,
+      "signed_hash": "0xbebbabe6c64be6505a53e4a0403669ba6c91400196ea9bf9405ede34adf96186",
+      "reconstructed_hash": "0xbebbabe6c64be6505a53e4a0403669ba6c91400196ea9bf9405ede34adf96186",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 156,
+      "block": 11627935,
+      "signed_hash": "0x4030f4b0a6e2a02bbf7c185c6687fde2d8b5182bdcf38c4fb4ec341b33f53be8",
+      "reconstructed_hash": "0x4030f4b0a6e2a02bbf7c185c6687fde2d8b5182bdcf38c4fb4ec341b33f53be8",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 157,
+      "block": 11752571,
+      "signed_hash": "0x73339a7a705d605412c4b0f7d831d3ad2f43a1059a8d9d82b7f9d1163ceee547",
+      "reconstructed_hash": "0x73339a7a705d605412c4b0f7d831d3ad2f43a1059a8d9d82b7f9d1163ceee547",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 158,
+      "block": 11872673,
+      "signed_hash": "0xe67fbe10fb349ef828ff5e06f1e345518f8334d19162728b8ac0990fe7425c13",
+      "reconstructed_hash": "0xe67fbe10fb349ef828ff5e06f1e345518f8334d19162728b8ac0990fe7425c13",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 159,
+      "block": 11979890,
+      "signed_hash": "0x8c9845c831f6619857f5b9f0a09e024d9cee1754b6a8f283dc4c7c84fd9696b7",
+      "reconstructed_hash": "0x8c9845c831f6619857f5b9f0a09e024d9cee1754b6a8f283dc4c7c84fd9696b7",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-150.json"
+    },
+    {
+      "epoch": 160,
+      "block": 12041108,
+      "signed_hash": "0xfadacc8db8091d229338f6be412e96c9b283964f9c4fc10ba24290d06daa7bd0",
+      "reconstructed_hash": "0xfadacc8db8091d229338f6be412e96c9b283964f9c4fc10ba24290d06daa7bd0",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 161,
+      "block": 12106193,
+      "signed_hash": "0x0ee73c2923fb7bb666799bff6056d971ed2e2670620e0cd9b3b73b2550e4e86c",
+      "reconstructed_hash": "0x0ee73c2923fb7bb666799bff6056d971ed2e2670620e0cd9b3b73b2550e4e86c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 162,
+      "block": 12171230,
+      "signed_hash": "0x2acc6ee102e145290b4ad1ac1466ca9c52d095eb588326655994d559ad35a09c",
+      "reconstructed_hash": "0x2acc6ee102e145290b4ad1ac1466ca9c52d095eb588326655994d559ad35a09c",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 163,
+      "block": 12236075,
+      "signed_hash": "0x057b9287731482b6bfb44a0f744929180f0ad1c22bea749bf3cb94eca6754651",
+      "reconstructed_hash": "0x057b9287731482b6bfb44a0f744929180f0ad1c22bea749bf3cb94eca6754651",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 164,
+      "block": 12301064,
+      "signed_hash": "0xf284bcf866ccfe9f789b41e0a265b2e8d76cf9c24275796afc86cf85d8a57bef",
+      "reconstructed_hash": "0xf284bcf866ccfe9f789b41e0a265b2e8d76cf9c24275796afc86cf85d8a57bef",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 165,
+      "block": 12366196,
+      "signed_hash": "0xfec081b8e4099b69778734575110b5cce07a843f1ed52e7d74966680e8e738a4",
+      "reconstructed_hash": "0xfec081b8e4099b69778734575110b5cce07a843f1ed52e7d74966680e8e738a4",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 166,
+      "block": 12431315,
+      "signed_hash": "0x193351f5ac62a09d278bb2434becc077567c79590e5e77cf0b0c35cd9b870414",
+      "reconstructed_hash": "0x193351f5ac62a09d278bb2434becc077567c79590e5e77cf0b0c35cd9b870414",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 167,
+      "block": 12496402,
+      "signed_hash": "0x270ebd0751c02993bd26fe42b5d9f2cd3602910f785234eac66662c91f2fc63a",
+      "reconstructed_hash": "0x270ebd0751c02993bd26fe42b5d9f2cd3602910f785234eac66662c91f2fc63a",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 168,
+      "block": 12561481,
+      "signed_hash": "0x480b9f1c611f1ab6b6c12197829be2b6a2ae19bdb931f36f382b7435e754e17f",
+      "reconstructed_hash": "0x480b9f1c611f1ab6b6c12197829be2b6a2ae19bdb931f36f382b7435e754e17f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 169,
+      "block": 12626661,
+      "signed_hash": "0x621aa1e5c3e91bbb7176250a74bef79737cf359a04143bc92d3e81222b0e421f",
+      "reconstructed_hash": "0x621aa1e5c3e91bbb7176250a74bef79737cf359a04143bc92d3e81222b0e421f",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-160.json"
+    },
+    {
+      "epoch": 170,
+      "block": 12691781,
+      "signed_hash": "0xf8cb65655ebc1a85c33f988215428aa4fa6c15d14fd724c33773f146404e3958",
+      "reconstructed_hash": "0xf8cb65655ebc1a85c33f988215428aa4fa6c15d14fd724c33773f146404e3958",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-170.json"
+    },
+    {
+      "epoch": 171,
+      "block": 12756819,
+      "signed_hash": "0x601ecdcf16df54353c64bf5f0bfb17cd0f0fd35a040937435ebb690595a84dac",
+      "reconstructed_hash": "0x601ecdcf16df54353c64bf5f0bfb17cd0f0fd35a040937435ebb690595a84dac",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-170.json"
+    },
+    {
+      "epoch": 172,
+      "block": 12820499,
+      "signed_hash": "0xa96bf1ffee92c6931a03abc52e6df8c759b9a99ae4e58bd285ff880e10e8057a",
+      "reconstructed_hash": "0xa96bf1ffee92c6931a03abc52e6df8c759b9a99ae4e58bd285ff880e10e8057a",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-170.json"
+    },
+    {
+      "epoch": 173,
+      "block": 12884728,
+      "signed_hash": "0x19d02a83c932a402b4b2e22ba83aedacb02c8f4a9e2773a5798d3eee912657f5",
+      "reconstructed_hash": "0x19d02a83c932a402b4b2e22ba83aedacb02c8f4a9e2773a5798d3eee912657f5",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-170.json"
+    },
+    {
+      "epoch": 174,
+      "block": 12948967,
+      "signed_hash": "0x847a7f69531b4134dfdeb4d5d012a85fa8f8ee2239ed8e006936a4aad7a1db08",
+      "reconstructed_hash": "0x847a7f69531b4134dfdeb4d5d012a85fa8f8ee2239ed8e006936a4aad7a1db08",
+      "rlp_bytes": 646,
+      "gasUsed_mutation_detected": true,
+      "source_batch": "headers-170.json"
+    }
+  ],
+  "scope": "All execution-header commitments referenced by the original 175 records; no transaction replay, receipt inclusion proof or independent starting-anchor authentication."
+}

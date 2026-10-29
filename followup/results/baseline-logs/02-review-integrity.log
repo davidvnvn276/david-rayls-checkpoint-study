@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "manifest_files": 102,
+  "mismatches": [],
+  "limit": "Packaged-file integrity, not RPC, publisher or canonical-chain authentication."
+}

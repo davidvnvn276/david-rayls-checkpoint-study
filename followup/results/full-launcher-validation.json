@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "started_at_utc": "20261029T052229321932Z",
+  "seconds": 206.528,
+  "steps": [
+    {
+      "name": "original-ten-step-audit",
+      "command": [
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/venv/bin/python",
+        "-B",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/extracted-original/DAVID_Week4_Publication/verify_all.py",
+        "--output",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/baseline"
+      ],
+      "exit_code": 0,
+      "seconds": 32.682,
+      "log": "logs/01-original-ten-step-audit.log"
+    },
+    {
+      "name": "complete-second-library-and-chain-controls",
+      "command": [
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/venv/bin/python",
+        "-B",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/upgrade/followup/verify_followup.py",
+        "--publication",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/extracted-original/DAVID_Week4_Publication",
+        "--output",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/followup"
+      ],
+      "exit_code": 0,
+      "seconds": 173.199,
+      "log": "logs/02-complete-second-library-and-chain-controls.log"
+    },
+    {
+      "name": "all-175-execution-headers",
+      "command": [
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/venv/bin/python",
+        "-B",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/upgrade/followup/check_headers.py",
+        "--publication",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/extracted-original/DAVID_Week4_Publication",
+        "--capture-dir",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/upgrade/followup/data/headers-20261029",
+        "--output",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/headers.json"
+      ],
+      "exit_code": 0,
+      "seconds": 0.497,
+      "log": "logs/03-all-175-execution-headers.log"
+    },
+    {
+      "name": "article-and-figure-values",
+      "command": [
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/venv/bin/python",
+        "-B",
+        "/workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/upgrade/followup/check_publication.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.042,
+      "log": "logs/04-article-and-figure-values.log"
+    }
+  ],
+  "expected_stages": 4,
+  "stages_completed": 4,
+  "error": null,
+  "scope": "Saved-data reproduction; no live RPC, wallet or transaction submission.",
+  "trust_limit": "Initial committee remains observed, not independently authenticated."
+}

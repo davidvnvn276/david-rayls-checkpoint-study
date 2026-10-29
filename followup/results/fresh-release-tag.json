@@ -1,0 +1,24 @@
+{
+  "node_id": "TA_kwDOSqV-jNoAKDFjYmRlMjg0NDU5YTY4NjMyZGJjMDBiMjk0MzE0MjA4NTU2NzI2MmI",
+  "sha": "1cbde284459a68632dbc00b2943142085567262b",
+  "url": "https://api.github.com/repos/raylsnetwork/axyl/git/tags/1cbde284459a68632dbc00b2943142085567262b",
+  "tagger": {
+    "name": "github-actions[bot]",
+    "email": "41898282+github-actions[bot]@users.noreply.github.com",
+    "date": "2026-10-02T08:24:38Z"
+  },
+  "object": {
+    "sha": "6909618ba3d178884e613b329a99816ba546f62e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/raylsnetwork/axyl/git/commits/6909618ba3d178884e613b329a99816ba546f62e"
+  },
+  "tag": "mainnet-v1.4.1",
+  "message": "Promotion mainnet-v1.4.1 (commit 6909618ba3d178884e613b329a99816ba546f62e)",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+  }
+}

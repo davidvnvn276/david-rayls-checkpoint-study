@@ -1,0 +1,56 @@
+[
+  {
+    "local": "source/primary_epoch.rs",
+    "upstream": "crates/infrastructure/types/src/primary/epoch.rs",
+    "recorded_sha": "ce041a542a82437655183ab67faa791e4c10d672",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/crypto_mod.rs",
+    "upstream": "crates/infrastructure/types/src/crypto/mod.rs",
+    "recorded_sha": "524743f09587fb772b047e6ff6c9fc50cb5d6b0a",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/codec.rs",
+    "upstream": "crates/infrastructure/types/src/codec.rs",
+    "recorded_sha": "9c3d08ffc6cc7a7366bf63173c6b613e58f4c8c7",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/serde.rs",
+    "upstream": "crates/infrastructure/types/src/serde.rs",
+    "recorded_sha": "04762b8104c0627feaf42db68319ece2c186ddcb",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/bls_keypair.rs",
+    "upstream": "crates/infrastructure/types/src/crypto/bls_keypair.rs",
+    "recorded_sha": "42020f29875b71787d7f22fd2baf402462f0940f",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/committee.rs",
+    "upstream": "crates/infrastructure/types/src/committee.rs",
+    "recorded_sha": "2b4c8c877f3f20166ee96fd287dd05c5de424933",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/rpc.md",
+    "upstream": "doc/crates/execution/rpc.md",
+    "recorded_sha": "451485edb4227794276990ea4251a556dafe7341",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/intent.rs",
+    "upstream": "crates/infrastructure/types/src/crypto/intent.rs",
+    "recorded_sha": "89f26512fbbb89d6f2af36d114e149cbe723c023",
+    "fresh_github_tree_match": true
+  },
+  {
+    "local": "source/bls_signature.rs",
+    "upstream": "crates/infrastructure/types/src/crypto/bls_signature.rs",
+    "recorded_sha": "8174c200acbb2b096169d41f51c43be8b80c908b",
+    "fresh_github_tree_match": true
+  }
+]

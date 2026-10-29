@@ -1,0 +1,6 @@
+{
+  "manifest_files": 49,
+  "manifest_or_source_mismatches": [],
+  "upstream_source_blob_matches": 9,
+  "limit": "Integrity relative to the packaged manifest; not publisher authentication or canonical chain authentication."
+}

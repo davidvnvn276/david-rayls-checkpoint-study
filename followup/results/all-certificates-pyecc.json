@@ -1,0 +1,2900 @@
+{
+  "checks": [
+    {
+      "certificate_identity_sha256": "a9897a83719e851c1d94a3f12fbfc571086ef7bd50da2537d78cef9435d14278",
+      "record_hash": "0x77476aab33226e0db41008e6492234b970d3f942182321b37cc1b605f895d622",
+      "epoch": 0,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 0
+        },
+        {
+          "capture": "B",
+          "epoch": 0
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "778eb145cf9d5611ff4fc379cd644484e71c0a76636c64fc9630aa66c4ce239f",
+      "record_hash": "0xc64b6b290a4b9ab6f73da0d4728e25e836611384d0a7d174b70dbbd6820a129f",
+      "epoch": 1,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 1
+        },
+        {
+          "capture": "B",
+          "epoch": 1
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "ed133453574894468d5415126f41c0e019d62d82c1b9ccbf05b041b4ab3f5ec0",
+      "record_hash": "0xb08b06d25aacb3cb77b1965bb83384fa2f75639118b7be85ff448ac76fdbadd3",
+      "epoch": 2,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 2
+        },
+        {
+          "capture": "B",
+          "epoch": 2
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "2a74c933582da551d762081a9d63b62367ed0a638b146b99fea10cd9386abdda",
+      "record_hash": "0xeabcf5763e2f577ba30a64c95f871d5931078d1f1768b5a85bc579847b2da2b3",
+      "epoch": 3,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 3
+        },
+        {
+          "capture": "B",
+          "epoch": 3
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "1665931429d427ea6a797bf6c5d72399ec2a1d525c6813e7e5d525a0bb80b250",
+      "record_hash": "0x24b89c3a1c23f62b8fecd9abecada8c3881df42d429cffb3dc4e2ef2917ba552",
+      "epoch": 4,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 4
+        },
+        {
+          "capture": "B",
+          "epoch": 4
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c7199c1b729dcaad05a8f4eaeb8173b5d50c58c5efe6338b4d25d5588801dd60",
+      "record_hash": "0xf94a9de93b07c589933054a13633e08f8846bba3240c79a4a9f59e2af927deb1",
+      "epoch": 5,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 5
+        },
+        {
+          "capture": "B",
+          "epoch": 5
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "945ab7bd1fa0fd4e28a4e0ab8b5d61799c7205a1857cdd040a036a781ab224ab",
+      "record_hash": "0xde5ee801a9a01b2afe306625afc6df59aff0cea8c1de3400702f6d17d99bf783",
+      "epoch": 6,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 6
+        },
+        {
+          "capture": "B",
+          "epoch": 6
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "21c0689a547620ba8f7c2bf438d021371286b0bb6d48c207a57bbf582058e16b",
+      "record_hash": "0xc988c032a00d29d3b7f0af8b07a8a7440b9db890eb74e8ccb036964269f131db",
+      "epoch": 7,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 7
+        },
+        {
+          "capture": "B",
+          "epoch": 7
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "89412eb703b11c2dfa12e38082044a06c43ffac129ec1d6edc80f928946ff074",
+      "record_hash": "0xb5533247c86674a33d847c2a92169f069461ec945f1614bbc757c776f94dd91c",
+      "epoch": 8,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 8
+        },
+        {
+          "capture": "B",
+          "epoch": 8
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d0ec82b86324dd5936fc0afa5a1dc6665b1f9c46f7d827f9dc111a60aaa40cd1",
+      "record_hash": "0xb807e69b21575fe8d505fb643b48e44582051b6ac763781d8df9ff7f76b5e346",
+      "epoch": 9,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 9
+        },
+        {
+          "capture": "B",
+          "epoch": 9
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "eb4380fc253b474b6d42deb21ccd65d7944dfe2f662656255f72e294ebaf4fbb",
+      "record_hash": "0x599432da1a176fbbe874d8be698aa029fc71fc41bebb01cf998b949465c3ffbd",
+      "epoch": 10,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 10
+        },
+        {
+          "capture": "B",
+          "epoch": 10
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6d788db1c6f0efb2c3f5f2606911ce157944b290dcbd4979b135f61f1b5ebaf9",
+      "record_hash": "0x2ea42a553d9a71fbfe0d40919d62b2acaf256802fb4a627b154baf5b010bdb82",
+      "epoch": 11,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 11
+        },
+        {
+          "capture": "B",
+          "epoch": 11
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0aa86a94f033ba4aaa1c0d9dd126b741610c54d88cb9287eeef562115a34db17",
+      "record_hash": "0xa57a78b0407be23ffb7336e1fdf40fdc4f48fdfbf3ee0dff6e2fa08d23d95def",
+      "epoch": 12,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 12
+        },
+        {
+          "capture": "B",
+          "epoch": 12
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "9b26af3014374ceb3b4b645b623ac26868eedaf516d424b8a14ecee6c3a00cb5",
+      "record_hash": "0x5174b9dfe4a9c81d958ff00abf45c957be6129f710a31a96bedbde1b57844ffe",
+      "epoch": 13,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 13
+        },
+        {
+          "capture": "B",
+          "epoch": 13
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "60bc02dc61f7b302326436eb1686a2c66bcac14d444d6e1b11cbedd10793f954",
+      "record_hash": "0xdd1848a36996b8e9bae2f91f8c63046e9189cabd728ca4a8f433e3a9abf8b367",
+      "epoch": 14,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 14
+        },
+        {
+          "capture": "B",
+          "epoch": 14
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "ae6b4a1a4113aedda4d7a12818af681a0e47569c273dd49bd12c2c5650d11012",
+      "record_hash": "0x38b9e12be507e1dd5f2811d185ab3399ee8e6d689756d1f058bb5f84c05c2b37",
+      "epoch": 15,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 15
+        },
+        {
+          "capture": "B",
+          "epoch": 15
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "54d2f6972ae31dae46ce09cc8f5a3946215b11884c81bf7ee44d4fef24eee14a",
+      "record_hash": "0xb69029bf26caa94966adfc6d2d8320cc4d28a09fa9579dfa213b218f83a3860e",
+      "epoch": 16,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 16
+        },
+        {
+          "capture": "B",
+          "epoch": 16
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d2e2b867a38b28099e03e943e767108b4ce7f3016a00d1f5073eec0145a94d65",
+      "record_hash": "0x75012e884d444e14348474a2ce7e58dfdb7d7c432fdf52d247cb487e46a2a357",
+      "epoch": 17,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 17
+        },
+        {
+          "capture": "B",
+          "epoch": 17
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6289f236ee9c7cf4f5ed3bc95b3c8c5195c1dc55a54072a50dd263045ed50510",
+      "record_hash": "0x8aa59ea6f58388a57004a24725e6f8369c1456f3277fcecdc575c2a8c9e6994b",
+      "epoch": 18,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 18
+        },
+        {
+          "capture": "B",
+          "epoch": 18
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "4704c35128225fca8ede0d1533e78bfcff91a6cafe991e4a815aab7952159b6c",
+      "record_hash": "0x15eafcf1967e9d8ee8e501467e82506d0970be1d149e5df8e97923908cc7f9bd",
+      "epoch": 19,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 19
+        },
+        {
+          "capture": "B",
+          "epoch": 19
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "83698aa40a5d12af8f4b4782f78adcd42d145f19b4d2a03f2818a559117fedb4",
+      "record_hash": "0x533f42acf7ed42ba568be2fc45ca459c0edb1053143e06e7ae0f237fa3862e7b",
+      "epoch": 20,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 20
+        },
+        {
+          "capture": "B",
+          "epoch": 20
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "bacb7edc05c6b30bc29b547e811cbf155bb10adc0a0bc45464768f620ab8518e",
+      "record_hash": "0x7be9f4e05cb6770b6522906e5b292101fe6ee60f5ea86f7a9b93f2f19e099731",
+      "epoch": 21,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 21
+        },
+        {
+          "capture": "B",
+          "epoch": 21
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d95c3889ca6736abc841537fd35b96a8c5656bfb5933c250fde51b4cd0430149",
+      "record_hash": "0xf7651b2c44620e3a94a16db449c6a5d75d0eb1b032396fba24fa450714151ed1",
+      "epoch": 22,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 22
+        },
+        {
+          "capture": "B",
+          "epoch": 22
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c3b2b3441089e6aed3543377ec4431dc5396cbf108df21b4bdc74e714d062d25",
+      "record_hash": "0xe7bf610a2ece3aabc7671664fd8341696157119bb30c5262eab494b414cacbe4",
+      "epoch": 23,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 23
+        },
+        {
+          "capture": "B",
+          "epoch": 23
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f6817b36ccb39e00e43c4bc6bb6bf5b32b6b0602453a102aeec8b15d5c156225",
+      "record_hash": "0x454db475af56592693ac2d770e5f4c3ab5140fc439c5f3eabefc9adb31c762a2",
+      "epoch": 24,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 24
+        },
+        {
+          "capture": "B",
+          "epoch": 24
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "3bf7366b08a6ec1653354486e27b0c6b6e37cd43c5f622a4068bce0576c16134",
+      "record_hash": "0xc05c530de3dbaa604f17549540188775adfa82a5acd41cdc9dfff91049cdb3c1",
+      "epoch": 25,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 25
+        },
+        {
+          "capture": "B",
+          "epoch": 25
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5cbae4f54f535b2cf84fabf3f49c7cf4f0b87411dbec491c79301cc5d05c1854",
+      "record_hash": "0x3c9ca900a121416ca75662ea7d5f27d8ad47c8bd541e89ed2d638c1f597e86b8",
+      "epoch": 26,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 26
+        },
+        {
+          "capture": "B",
+          "epoch": 26
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "95156e1c545f31046625c8cfe7ae09f07d7b7aa79f6b15fbe4cc6e942a0d3def",
+      "record_hash": "0xe820414f6237489342bd4f033fda1ef4f70ef7d6bc8487f34dd0afaa8ecba34e",
+      "epoch": 27,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 27
+        },
+        {
+          "capture": "B",
+          "epoch": 27
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "9d1526e302306b6e8413d18c1135be40df71c53d2027c9c1c82070751cc97419",
+      "record_hash": "0xf4155cb2f9a3f0336a3a89b1252306305b4b37c6dab6d3a7bdf3c8c2762a367a",
+      "epoch": 28,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 28
+        },
+        {
+          "capture": "B",
+          "epoch": 28
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "2c3a71229a50b3f437ae7d76817368bd291971763767cb1264c616377f16eb15",
+      "record_hash": "0xf0c8be2497cbdc4198275f63fedf901ba54b2c53daebff5cc1305f6c8df229ce",
+      "epoch": 29,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 29
+        },
+        {
+          "capture": "B",
+          "epoch": 29
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "8eb2600ae9e5cfcc4c9965573c67cbf5317e33c318d7e99c215d027b7c911563",
+      "record_hash": "0x9e42dde4e4e8b4b76c445f055ef32d5a8ba4efcf0730f0998021b97474139881",
+      "epoch": 30,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 30
+        },
+        {
+          "capture": "B",
+          "epoch": 30
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "64bc8adfe43617b1dbd3a8d796c3ad2288d9171c460a274132fb71e0577040c2",
+      "record_hash": "0x2f36643794bfdae123fc68c315d4e263965960afe15b8b3f74a5829a88bda6ff",
+      "epoch": 31,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 31
+        },
+        {
+          "capture": "B",
+          "epoch": 31
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "69d1066c408e3512484678c088e7e02d924f0738da6b4a60a68376756012ec3c",
+      "record_hash": "0x0c9a005d5479f94b71ac032133f9355d9f2401f0cb468fb6aaee8e2d3b3ad8f5",
+      "epoch": 32,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 32
+        },
+        {
+          "capture": "B",
+          "epoch": 32
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "fa6211999ec23542de74927dbb924d002580096af74bd58327c169b17a536bd2",
+      "record_hash": "0x4b062dab8b08a9d3eba67ca5e03a211c99b64d2393d0a5bd82ba69bed110da42",
+      "epoch": 33,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 33
+        },
+        {
+          "capture": "B",
+          "epoch": 33
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0b108837f050c0299b45e3ae0777a0d627ee621e828ccff7236751cc39aeef30",
+      "record_hash": "0x0ce1f78ac9ba2c0d2b797a04dfd4ea5e294d5db9dd9cc5c6da60cab3124afb97",
+      "epoch": 34,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 34
+        },
+        {
+          "capture": "B",
+          "epoch": 34
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "04b3b858062e3c5f89525bcac696a0ef27e50b4aea518dc8df763b58126ef96e",
+      "record_hash": "0x14fa93e8accbb85a12161040258cabafb4c5250c7da4cdd34e4a93c3f2a5f499",
+      "epoch": 35,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 35
+        },
+        {
+          "capture": "B",
+          "epoch": 35
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "a758d25397c0a16f2fc7b57cdbd021bea4a08aa4eb8b8357fa9c80d02782a3dd",
+      "record_hash": "0x19c418f474002e99970a3a7b794e06a7f923af32ae541b71ac115dbb172c7edc",
+      "epoch": 36,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 36
+        },
+        {
+          "capture": "B",
+          "epoch": 36
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "18cbcdbc6b8e95c4be562e6e39fa1fa5e1fc36b400bda8414879da01d9fbe243",
+      "record_hash": "0xd5469e507a2524d64ad14f12361c505bc45403b36c1c56b90f257b256d15cd61",
+      "epoch": 37,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 37
+        },
+        {
+          "capture": "B",
+          "epoch": 37
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5e7c85cd23126a99762ca7d0611fde36458042dec005ee5b50a12123a3033b79",
+      "record_hash": "0x97d6b9d136ba0a549cacd4fd6ad91fe95ad82cd0aa90404f3960e3ab83bd48e2",
+      "epoch": 38,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 38
+        },
+        {
+          "capture": "B",
+          "epoch": 38
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "13876671fed2795478c1515f65400cfbcf7f9d14b7642cfbd295027784ca3181",
+      "record_hash": "0x28d020c62ac67ce297a092635ab02200c4672540bc6060744c59bd2a64973c62",
+      "epoch": 39,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 39
+        },
+        {
+          "capture": "B",
+          "epoch": 39
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d896566277ccceaf0ab5fd12c149f737f05a79beb03330eb892b9257e55889e7",
+      "record_hash": "0xec9f8ae7b8aecf54fa3d276807dc49f977dead4e822023d2b5bf9fc725e614b8",
+      "epoch": 40,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 40
+        },
+        {
+          "capture": "B",
+          "epoch": 40
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c44809f23ba5a7d44179d114fb6dacdfd2265142c23faabc52c22c76bc0dcef7",
+      "record_hash": "0xbf7b0ee040b8ebff42036ea1f85ca4621a9177d16df7ebbf285e6f56ff1c0c7b",
+      "epoch": 41,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 41
+        },
+        {
+          "capture": "B",
+          "epoch": 41
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "4a3ff8b49e163abe82382840bdbe3b66e36448790e5bcdd9a44cab87d8b13a9f",
+      "record_hash": "0x45d822df9013f209e428c1a0489494432b3b3f967a479ee618710dfce9ff8fcc",
+      "epoch": 42,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 42
+        },
+        {
+          "capture": "B",
+          "epoch": 42
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d6e3bf8fa35fe770bcc6de316b138e4ce25a04920a76741cbe3c587906fa7428",
+      "record_hash": "0x82d925db193cea9bf37ef76bb51246e26a83e63cbd53c8ad67ac5fa30732198d",
+      "epoch": 43,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 43
+        },
+        {
+          "capture": "B",
+          "epoch": 43
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6b4c9c574f6183981a0045b40460e19ae3c6b0e0141b0d36acb70d40c78f0d65",
+      "record_hash": "0x9645f79566c8e676e43bae03316ac09bb39026f41d8495a38aa45a5135cf0346",
+      "epoch": 44,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 44
+        },
+        {
+          "capture": "B",
+          "epoch": 44
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "3317e841ed4e80640ae06075b21d8d6acb0f32b39ae8edd176d6087ef3ec3af7",
+      "record_hash": "0x8f988cacd5c00e20cf9ef3157c4f7f7152cd09b0917d4b6d09543cd3e30567e3",
+      "epoch": 45,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 45
+        },
+        {
+          "capture": "B",
+          "epoch": 45
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "597a289d7ed3d49c637a6c65c14bee95d895b0aa071a2870886389c846d0efef",
+      "record_hash": "0xc298ac6289b83583ae17e2a374311736af96d9fd9910d542773b4191365849e8",
+      "epoch": 46,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 46
+        },
+        {
+          "capture": "B",
+          "epoch": 46
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "aba6fecdf63f624490122d2b558e90e2dbb50696f685d706804bd09b913fb230",
+      "record_hash": "0x0a9d4c4e3a9b684654ce162715b35617ad12bc3a1b9faa99c12684669bb236db",
+      "epoch": 47,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 47
+        },
+        {
+          "capture": "B",
+          "epoch": 47
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "9e0ff3a4c7b96353b9ba94366828205a5949e723e7fdee833e8a22311199a104",
+      "record_hash": "0x291aef1dbaaeb11e53931a49cd4a9552a74f2e0ad5ac3a4be706f93cdf29d431",
+      "epoch": 48,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 48
+        },
+        {
+          "capture": "B",
+          "epoch": 48
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c0de42ac3d512c29a24051f54fb39aef18de1de9106c20b1a0037e546ba2e77b",
+      "record_hash": "0xd8f4b123ead8106a4e31157e2fafd137bf70a7d05f951198f1afcb039e2f75da",
+      "epoch": 49,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 49
+        },
+        {
+          "capture": "B",
+          "epoch": 49
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6a2a2d361861748af168cd50419a4404c032daca5c1149fddd8053edaa61cea1",
+      "record_hash": "0x22a7345c8c4a36e7b7bb371ce4a484ee61c1721bf0dbbb69c6469111338ac9a9",
+      "epoch": 50,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 50
+        },
+        {
+          "capture": "B",
+          "epoch": 50
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f29050f6808ef83fc1ed4d7214b5b56fd655e8b049b2f4b0d023f425457dbe32",
+      "record_hash": "0x10a64107de357c93be43408b6d15452d3f844612d005249c68a481e4fb771ba6",
+      "epoch": 51,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 51
+        },
+        {
+          "capture": "B",
+          "epoch": 51
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c9c7c73580115d1e6365f59ade23eb7d48ecda8e5cd50789b304c85e495e810e",
+      "record_hash": "0xb5ad700747be90c6b599aa9090dabee8c379b173ab035f290cc2486a3255a16b",
+      "epoch": 52,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 52
+        },
+        {
+          "capture": "B",
+          "epoch": 52
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "130d673cfecc8c22ae29cfa73aa24a39ecaac6874354637727b281bbaff8eef6",
+      "record_hash": "0xef59df4fa69417559df8e60cfcc17305e2ec4caa79d8ba500d74269f88078ba6",
+      "epoch": 53,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 53
+        },
+        {
+          "capture": "B",
+          "epoch": 53
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6287cfb20cce4113f15f1534e7a8fbf29e5e62d17b3b60901ab1cbc709abf9d6",
+      "record_hash": "0x0559720dafea1e1cf68051d15d460a2a85f9e1a7721f89d9603f2bded6e6ba41",
+      "epoch": 54,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 54
+        },
+        {
+          "capture": "B",
+          "epoch": 54
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "bf7757df00bdff2ae5cf276eecfc53cd2aa1de6e4dd8e9a326aa6f87edd49679",
+      "record_hash": "0x6998037280de5bb26667179f98d1d01fe31b6e2ba293bfc0a9f9c8b033e1e925",
+      "epoch": 55,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 55
+        },
+        {
+          "capture": "B",
+          "epoch": 55
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "07db346a2e0b219dce5d0f588f7863520f541368fa006fa620a5d6c1bff59d02",
+      "record_hash": "0x69d7befefbad99e7fd51f8976aa77a51a21747e5db7179ef2adbef5fe6e25118",
+      "epoch": 56,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 56
+        },
+        {
+          "capture": "B",
+          "epoch": 56
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c0a47fdc3f406bf092f3d9b8fd2dfbb1a65f97f92c7b4d5fcbbe9aa0dfb48562",
+      "record_hash": "0xa61027cc37d76438148f4fc510d34d19d09b2d3cae18241ede14b1e744383e68",
+      "epoch": 57,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 57
+        },
+        {
+          "capture": "B",
+          "epoch": 57
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "2838b684f860713dd047c91201b949e0f6816d20875e9f57a827eeeb35cca779",
+      "record_hash": "0x0deda7565bceeba7e8c5b09333d454e8c6f82396fe5a014c900e25d20eaf869f",
+      "epoch": 58,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 58
+        },
+        {
+          "capture": "B",
+          "epoch": 58
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f04cc13b3c5ad88ec39c5694a37361c6b9b639a224b80c837d7bea57c34c22e6",
+      "record_hash": "0x9c35cce7c70d89e3db17efd1d6ba7b90172e41c3c8ef367c3c752393d3b7fb5f",
+      "epoch": 59,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 59
+        },
+        {
+          "capture": "B",
+          "epoch": 59
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "113a941c4de1aca1af9d6c28d43c063628df68473f5dc386a6ad008c1684b4ad",
+      "record_hash": "0x8f911858cb12a1200c649e17b9d2b47e15865e0bd4c13e4e0876657121f9b3fa",
+      "epoch": 60,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 60
+        },
+        {
+          "capture": "B",
+          "epoch": 60
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0580f8cc62d425e24903649305991b2604e9a60e9b6425e3039509040920ae6e",
+      "record_hash": "0x1c7bbeadf7efdf45a2dd80af547cf7f572dcb00e37ca84a6970c7c6b064b7d46",
+      "epoch": 61,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 61
+        },
+        {
+          "capture": "B",
+          "epoch": 61
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "46e0bc105a06a570f09fd945cdb2cc86f4c6327d5e0ccb316de6b2de93e4aec6",
+      "record_hash": "0x234dc31a4e4ba24846c7f6fd09a50d196f1206b39bd03a5414a26c2d939f022d",
+      "epoch": 62,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 62
+        },
+        {
+          "capture": "B",
+          "epoch": 62
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5144f6f664acaeb39de0941443fda9f4d83941d737e0df5e3ef58e8c192eee32",
+      "record_hash": "0x73e49422daa0ad1330e12f477eeae33688ae369d5b88675dd799bfe413e94f71",
+      "epoch": 63,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 63
+        },
+        {
+          "capture": "B",
+          "epoch": 63
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "cf90f63fa1a5ad5d9b1dafb372b4b5ad197ce5b659d6a94713017bf7232b163b",
+      "record_hash": "0xa5357758457cc7d9e8494b6d537bb2e7b9c41b760d633ef568a76bbd72e3a715",
+      "epoch": 64,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 64
+        },
+        {
+          "capture": "B",
+          "epoch": 64
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c161d24c58682d44afe2db943e3a3c6b9d0f3b25e1090c67ea262777b18765fe",
+      "record_hash": "0xb7ffb70d868fa807183164ff4b166663a22ab027192487be4d6fbdbefb21bf90",
+      "epoch": 65,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 65
+        },
+        {
+          "capture": "B",
+          "epoch": 65
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "cfd16539ad35af739f110efca7341405ffc3c5a1e6a6a25cecf66e92a0a4429b",
+      "record_hash": "0x106bb4b8348b49a32d99f8878a3eb3a3becc19523384514076af5c159ca7e01b",
+      "epoch": 66,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 66
+        },
+        {
+          "capture": "B",
+          "epoch": 66
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "8d68cac2da63d6085b17e16f1db22661a7ac8b8e7c3e7555e4bde3dfdfe6802f",
+      "record_hash": "0xc4baf5dd4c18e89ad516bb2daabf4cc8aa9c4ff8c67b742cc02c5d20a3c92b6f",
+      "epoch": 67,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 67
+        },
+        {
+          "capture": "B",
+          "epoch": 67
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "34625e5f043159a42ccb53f584456dfa5b4afac2bf3e27cd2eab3748ec64ed4c",
+      "record_hash": "0xf5c7b92aef88a9dd00ea00f9d962bf2c8e5c8dde6b1135f24fdb23874a94b998",
+      "epoch": 68,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 68
+        },
+        {
+          "capture": "B",
+          "epoch": 68
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "85ee8d56ebcd81e30dae4b49de76997290a20f9bb0a78496d9aa2a6b96115b21",
+      "record_hash": "0xa2e772f82ed756d81842ea597cc9d13c767e68434cc364512a89bc08f8687809",
+      "epoch": 69,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 69
+        },
+        {
+          "capture": "B",
+          "epoch": 69
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "e12c30b8ed89240c0519a3d6d4d355c0e60f90a0cd20d56531f73e3dadf7c1d2",
+      "record_hash": "0x3e9460234fd45d7f0ef3ffc43a4f9ff4f4ba8d29fe33039415a33bffaf99ccf1",
+      "epoch": 70,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 70
+        },
+        {
+          "capture": "B",
+          "epoch": 70
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "98099efd1601e0a51ea1c0b7bc748afff5c9ed05f0f18d7a6369061e56da31f6",
+      "record_hash": "0x39605bc8ef5f07cbabf3e87fe9b9b28c4a45df7c37d6470e7fbe24143b5943e2",
+      "epoch": 71,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 71
+        },
+        {
+          "capture": "B",
+          "epoch": 71
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "2f5766994f8acd128aee77e3f7ba2cff675de27820f6bfe6ecb63a0307aab172",
+      "record_hash": "0x2e33bd35ecee2e2d8763b08dc4535f66f357cd40229a3777cd6d20f7c30a7298",
+      "epoch": 72,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 72
+        },
+        {
+          "capture": "B",
+          "epoch": 72
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "8854e8f4cee2e5c0ad22f9e6527b9eece8466802c8e7f27d0bd9962598a9ed9e",
+      "record_hash": "0xbdbd45c148c107e9916b77503d79783f7ac21000c7f2f1ce1ca3c19feb860e68",
+      "epoch": 73,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 73
+        },
+        {
+          "capture": "B",
+          "epoch": 73
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "ed174a317ae327a01cb33bac060d7fe8500e82811bb42368c84fa3a3ef10e5e4",
+      "record_hash": "0x13566022db830e4c6ef17a0ed2997f47b8f2ea3988b8334f9daac25151357637",
+      "epoch": 74,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 74
+        },
+        {
+          "capture": "B",
+          "epoch": 74
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "1aeb22761f6180c106043f0e4bebb30f563e1e16653c567b1d6b91b363b11d37",
+      "record_hash": "0xfd4301b81b17ecc0802c37567c6d26b80e551e3810c204239490a347a9933846",
+      "epoch": 75,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 75
+        },
+        {
+          "capture": "B",
+          "epoch": 75
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "8a4b0aaf212f9a99558b3b0c1d1bf88c2347b4b65eeae72e8aaa279d580f79cf",
+      "record_hash": "0x2e9b19f86afe875dc7762654a08c3ef682fd877378da9900dda47d7342ec28a4",
+      "epoch": 76,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 76
+        },
+        {
+          "capture": "B",
+          "epoch": 76
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d8f16b82729fbd68c5e3d38ac30bf86c5905b478dd98c34e65d4bcdaf3a621c0",
+      "record_hash": "0x45247e4443fc1f9bb9681918f38285bede800709ba6d89c4bd785281e8b849eb",
+      "epoch": 77,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 77
+        },
+        {
+          "capture": "B",
+          "epoch": 77
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "cd58f3e9c31b520e7304658194576387bb52243b3c574a0fd3af43ae6af12637",
+      "record_hash": "0x2330e30a5e6a8813f90d16e495457aa630e5a41f7fd465fe88722747349b7dc9",
+      "epoch": 78,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 78
+        },
+        {
+          "capture": "B",
+          "epoch": 78
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "4792e24c3a75f8d5332c2f4fb057bc89c86d9ea97b3c5fb9c564b6d3c8b48ed8",
+      "record_hash": "0x26d03abcc6fba456410702a4914a2f55dfde1d314caff9dcf6daf07c073d427e",
+      "epoch": 79,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 79
+        },
+        {
+          "capture": "B",
+          "epoch": 79
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c8b7a67f8613d2940118296a548eb09af11cab0c6a0965923f42c60663a81fb9",
+      "record_hash": "0xc3fad53f557f26c062fe31ff15bf3ecd9c3b73df0a05626127cbd91a0f43aaa8",
+      "epoch": 80,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 80
+        },
+        {
+          "capture": "B",
+          "epoch": 80
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "b9c8aea9cf68dd7ab35cd5de78ce325d1897fe1dfbce5e1a6d8fec87d042a149",
+      "record_hash": "0x7e18275e19983b8c4487ab613bc41022d9e39ae21c8e8763676dae0f96f0b9e7",
+      "epoch": 81,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 81
+        },
+        {
+          "capture": "B",
+          "epoch": 81
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "a36189d24e11342f5c6552bf1009ee755f6a3f8e3ce0cad0181e1787bb7610ba",
+      "record_hash": "0xf29f551dbc16b9095c4305edb73a5842638fc26147bc41003b64c915ba6da17e",
+      "epoch": 82,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 82
+        },
+        {
+          "capture": "B",
+          "epoch": 82
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "338addf26587056d20519497e1a7bc5c4e60e44e9334e8114a50314d5453c083",
+      "record_hash": "0x50ca737afe6250498e2c3a0e5e23f9c7c6eeb7f7714545bc60a5e2e85d31faac",
+      "epoch": 83,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 83
+        },
+        {
+          "capture": "B",
+          "epoch": 83
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "e3b2ab4180e4ea43a10b96404199728d171bdd7615267dad306368dd7427c986",
+      "record_hash": "0x272191eb16ba1e66ce3ae8c819260813fef97b54e83e539aa67e7a7d5c70370e",
+      "epoch": 84,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 84
+        },
+        {
+          "capture": "B",
+          "epoch": 84
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "7493a7c4dbd1f09e109634be25f79ca43362c2e4006ede621a0c38bc751228ad",
+      "record_hash": "0x4c6d65b87243f00ee4e6926a53455f900d6dca23567de9153950f5cdcf59db1d",
+      "epoch": 85,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 85
+        },
+        {
+          "capture": "B",
+          "epoch": 85
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6e8c1081a31a1c9749b2b8e478fe048a16b87f1e7af42d5694310bf3cc5bde36",
+      "record_hash": "0x1d66f16e2c0fc24c6909eff7a6b197d61776f5e5a974575f73099093de485016",
+      "epoch": 86,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 86
+        },
+        {
+          "capture": "B",
+          "epoch": 86
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d6873f165daea4c60488a0921f41a663e28847c44b1d134c31217c80f61dc4f0",
+      "record_hash": "0x617de5c8946fa7847fe804dc94958b7041d16bedbfefc51dbde7debcf48689f4",
+      "epoch": 87,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 87
+        },
+        {
+          "capture": "B",
+          "epoch": 87
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "938be367b290b746834e74252816bd3727732f1298065061e2eaf8a159d20743",
+      "record_hash": "0xeac3ad9c820bea99f1e74e381a64b595cfadea72e2d562a14965bc4af2442645",
+      "epoch": 88,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 88
+        },
+        {
+          "capture": "B",
+          "epoch": 88
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "879a31684c122addbb63f17baca5429682891eb24338145934df7422a069ae61",
+      "record_hash": "0x97a10cb4475c8eeb91c037dfa369f64e4ce145ff93508605715ea143cbecd0d5",
+      "epoch": 89,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 89
+        },
+        {
+          "capture": "B",
+          "epoch": 89
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "80b051bf6cb7f32b612ecb898bab0756295fd1ae625665a632fd077949c7d8ad",
+      "record_hash": "0xd4b9c8816dcae45967f319f80776ff0b07b8fffb5236e7d6e61f6575edf19c65",
+      "epoch": 90,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 90
+        },
+        {
+          "capture": "B",
+          "epoch": 90
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f46a2ad0fd0174c02a3210428be5366ad5398a468819b9b037c75ff7c8e590ab",
+      "record_hash": "0xe9aef18e2344f701ebeb3f277bf5a72034828c7ff0587241a3b203831b686c86",
+      "epoch": 91,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 91
+        },
+        {
+          "capture": "B",
+          "epoch": 91
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "18b2de71f533501e599250b446a942ba8d18e96bc6ecaed759ae4403ea1e8d2a",
+      "record_hash": "0xd1d5f004201dc37e25a50443bffbeb6d9415022f29586d366b0307c30b131790",
+      "epoch": 92,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 92
+        },
+        {
+          "capture": "B",
+          "epoch": 92
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "07de49732b13018cec169866a7f83a98bfb185ef70b559036d0a6637a136d4d7",
+      "record_hash": "0xe3c60a79408905a2b1c43f148b88cff64a752a38aaa78e45e22807831f7e681d",
+      "epoch": 93,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 93
+        },
+        {
+          "capture": "B",
+          "epoch": 93
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f466447cbd97aeb4b170a75e732e1045700acf8a3cb8faff34ee0d41cd8da73e",
+      "record_hash": "0xa2961fc70b0674ff431730447121e0030c461e78f5c1a80f1d51d2ef00a70031",
+      "epoch": 94,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 94
+        },
+        {
+          "capture": "B",
+          "epoch": 94
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "60fb1e9a80f9140cebf77c024d3778ab79438dfffe86cbe02e824d784d21d340",
+      "record_hash": "0x7a5a9116132e1e4592bb31bffef6e53d6bf90902e381a9f512add7e3951d2063",
+      "epoch": 95,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 95
+        },
+        {
+          "capture": "B",
+          "epoch": 95
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0a2fb6ff0621de222225960b165802db102c97766cddd4567ce9449a522c452b",
+      "record_hash": "0x0ecb51dcbcced8fc59098e18403efc0429c6ffd379d7267fb34f55f1c2ef9bc3",
+      "epoch": 96,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 96
+        },
+        {
+          "capture": "B",
+          "epoch": 96
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "df0734c2dede3adf584b84863fb33f329c9a17339a9b248abec57d5f41c940a3",
+      "record_hash": "0x34ccf5c5cd453848d6ee04ca4835dbc87f33c1de2dc59dff4525ac669c814fb6",
+      "epoch": 97,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 97
+        },
+        {
+          "capture": "B",
+          "epoch": 97
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0ced2955974412001127cbefb220db6dc766fc0503dbb08d6c2b783f7f73368a",
+      "record_hash": "0xa65f519bd820434b75f6b843ce1c38ee8ba8b6dd99700cd13bf3a0b9e966fe3a",
+      "epoch": 98,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 98
+        },
+        {
+          "capture": "B",
+          "epoch": 98
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0c48ad10c2a7abdc1e2905d9423a4c63b756c63ceb96e0ef96c7bb7f3ed29e93",
+      "record_hash": "0xc957ab96ffec3a8725af78cb73609cee04d05df7710a74458892c400ae5fc3cb",
+      "epoch": 99,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 99
+        },
+        {
+          "capture": "B",
+          "epoch": 99
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "857e9aa77d729c2adc5cd55164d21eb7d84e232635d01ae21f5307b781efe76f",
+      "record_hash": "0x22281308544a98fe5412e0a41845217f4e54071672f207ed9a094f922deb8cf8",
+      "epoch": 100,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 100
+        },
+        {
+          "capture": "B",
+          "epoch": 100
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "1e656c2645f96104a9dfaddcd22d93ddc861f1c59a892c30ec1af17f206561a2",
+      "record_hash": "0xd6bd72865a1406adacaded8af800332237f8b85537608564394b55135bb39d17",
+      "epoch": 101,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 101
+        },
+        {
+          "capture": "B",
+          "epoch": 101
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d3bdaa9f9b85d88bf3e1df7760c223baef84fd3a8e135bd79e7e79a71f03da73",
+      "record_hash": "0x78eec742311d4a3676ec8762e0064d0ffd755e97c886f340aae1423ffd8bb860",
+      "epoch": 102,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 102
+        },
+        {
+          "capture": "B",
+          "epoch": 102
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "00328b5e62e1de4f98365cf15532a5a036902ed8e4ab2be463e9a9cf4df7a3cf",
+      "record_hash": "0xfddb4df8877db8aab3fd99232f9afb7557beaa152dbb6e27d97a0c425b1cd294",
+      "epoch": 103,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 103
+        },
+        {
+          "capture": "B",
+          "epoch": 103
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "59116711cb2cf6bea226bc027384d7e767d6666718e024b1923043cb60ebdf07",
+      "record_hash": "0xa1d5299950e1e78e96b28ab1ee1da3754fb82c6957ae7d190735f349608fb244",
+      "epoch": 104,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 104
+        },
+        {
+          "capture": "B",
+          "epoch": 104
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "fc39a6c016b75313ce5a063dad10cfb4c4813a5e653f75065e1d7ab84703dff3",
+      "record_hash": "0x54e4ede4f98de6f7bdd2f116a32509e3bc7413ccdb2e357d04fca34c83b02d1b",
+      "epoch": 105,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 105
+        },
+        {
+          "capture": "B",
+          "epoch": 105
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5736cff940050c29afede870c9165ff3f247d0148665b2e3c445e87b983731fb",
+      "record_hash": "0x20e3c13dd9593b43794163c38ca2cc191bd4f30cdf7ecf241bc79ad74ee4288b",
+      "epoch": 106,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 106
+        },
+        {
+          "capture": "B",
+          "epoch": 106
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "bf5e7738981c37188a06fe7385d82fcec40c3068d46e10c1e7d4a8cef942429f",
+      "record_hash": "0x44cee90a32fa5ab1f11c16c23bd0d2c8aeeff81c6765d5f0ccb8c8a7f6220c40",
+      "epoch": 107,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 107
+        },
+        {
+          "capture": "B",
+          "epoch": 107
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "030c157c70290dd3af7142d31e960c93ac4d38f1723c07a44cfdf7e9d8838bf9",
+      "record_hash": "0x3c720f44f26ff20c93a7d29591420aade2d0c62e056327a03f83ad24c51ea30a",
+      "epoch": 108,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 108
+        },
+        {
+          "capture": "B",
+          "epoch": 108
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "eeeff743e77a240b9c8ebdd6de830813b4f73c13833608126b02834fd951daa3",
+      "record_hash": "0x44cef3ddcbef9f571c91877e1c0bc4f474427bbadd07b147db1d6a49b458f850",
+      "epoch": 109,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 109
+        },
+        {
+          "capture": "B",
+          "epoch": 109
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c60d4704bcc490d2e9b21c5bd9a7ad388070b76e9801f00ba01a6617a30644e4",
+      "record_hash": "0x103a8bd503c89c1165486252d015c43204bbae9018baaf3ffafef7c9fea9a90f",
+      "epoch": 110,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 110
+        },
+        {
+          "capture": "B",
+          "epoch": 110
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "3cde24027da6d46a2ab2545afa8b336a9bd86b01d120d659dc426f58b81d3ce2",
+      "record_hash": "0x7fe6711e2632965b68a60938f5da010085e3dc3824982d6764480bd21737ec3d",
+      "epoch": 111,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 111
+        },
+        {
+          "capture": "B",
+          "epoch": 111
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "ce3a20e672fd26e14231452ca5ccb9aff2fe70e69361049e8ff88c7d438efa1a",
+      "record_hash": "0x15fe671a5dea55a0166fe7309db8f0a4b6cd1b4cb2d2d7cffcd24477f7bf9721",
+      "epoch": 112,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 112
+        },
+        {
+          "capture": "B",
+          "epoch": 112
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "086124109d59a5d6c7d3a5dc002b2a3428fa576421896650b0948dee62b025d2",
+      "record_hash": "0xf1561ecb461189e26e2d8ec70ba2548bc0c9acb0b6e28f33d331ed8bfd23e0bb",
+      "epoch": 113,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 113
+        },
+        {
+          "capture": "B",
+          "epoch": 113
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "a4368343be17a7860d30ad844432adabacea9d9ed82f3a2dff750ad3cded126f",
+      "record_hash": "0x39e90c9fcb586f73a0e9450c5cc7e21f264e479ad1bab10386165d9fc1217f5c",
+      "epoch": 114,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 114
+        },
+        {
+          "capture": "B",
+          "epoch": 114
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "ca1bb31e98caba37990b7242ca346c750e1af706c653ba964ba45623b11ea9fc",
+      "record_hash": "0x408c99f38f3f7593a5c4cfffe71467dfa7dd859dc61d93481540df0b42f872d7",
+      "epoch": 115,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 115
+        },
+        {
+          "capture": "B",
+          "epoch": 115
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "fdba5c0d8945380e7cdf337a2f887cbc5de654254ffde39fde0261ed48012c87",
+      "record_hash": "0xf5d6097c884fa72fd70b13877fb0d807d627dee52aa2acf0ddf767f4ed4dead4",
+      "epoch": 116,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 116
+        },
+        {
+          "capture": "B",
+          "epoch": 116
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "971f166b64d62330714a1f05e4948c73befa9caf7ae4ffc2c9341ae274426d5c",
+      "record_hash": "0x635a572319fa57747d93a1603e5f8405f6e4e63d7dd0f37238173f214a3a69d3",
+      "epoch": 117,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 117
+        },
+        {
+          "capture": "B",
+          "epoch": 117
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "44762438494fe25643af27d40e15ae4d8d7222f8f4380a1b4027284b1b857696",
+      "record_hash": "0x28e0b6e6828b85452d82365b234f41586eeaa0ef77bd95698f4fd707c411a5e0",
+      "epoch": 118,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 118
+        },
+        {
+          "capture": "B",
+          "epoch": 118
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "540bc2d2fe9bb40189361cfb4c37014734193f4f40d44ceaff0a1fac9cacacaf",
+      "record_hash": "0xd35967ef7d66c6c1d044104c7ac55847720dc2367ec65f34f7e69c2ba6ab5621",
+      "epoch": 119,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 119
+        },
+        {
+          "capture": "B",
+          "epoch": 119
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d0028db2d7e92998c379f9e9c6f397f7c0656dd847fd285e1fe7491b6641e914",
+      "record_hash": "0xf1cccde105b74de03e02338e6134b71627f67559ed73f018ed782197b9acecc0",
+      "epoch": 120,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 120
+        },
+        {
+          "capture": "B",
+          "epoch": 120
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f9f42e1a1b638c80a58cbcbac8e345e46f166630cdd39d7ad34d5dd5979459d2",
+      "record_hash": "0x9d87421fbbb4840f6864f3b57176e77c2c1cf30b4f28abc5cf567c39f4d10c1d",
+      "epoch": 121,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 121
+        },
+        {
+          "capture": "B",
+          "epoch": 121
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "57ceb0a77fcbce92ce02738b40917bc7a2f49b41a91867e8a111c225a332ba65",
+      "record_hash": "0x998c2df4f94ef9acd6db5f2d85f4c52e5e11b6e6a0cb60026a39b7d762f1e710",
+      "epoch": 122,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 122
+        },
+        {
+          "capture": "B",
+          "epoch": 122
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d529833e875dc3aaddc69c5bcabbf9c11b548b2e9dac227f0e6190c624780e52",
+      "record_hash": "0x2a8c413e1a87749dbfb8f79d587ea40b03c79211e2f34caf96e3116afa5a5a00",
+      "epoch": 123,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 123
+        },
+        {
+          "capture": "B",
+          "epoch": 123
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "32615867afea81edf9e8451868314478ca34a8de3d1358b802c02b2b0fa8f49c",
+      "record_hash": "0x6480c635fbb21ea45fa25ef97783e365bd57f91fdcee6b27a0187ddf2f41a3a8",
+      "epoch": 124,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 124
+        },
+        {
+          "capture": "B",
+          "epoch": 124
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "284d6b06b4118ea8826776a0b54ef87d02302de16777544183b4dd26eec09bc1",
+      "record_hash": "0x240eb6c836bad5b0a184066778bcceea1c09e62ba907b7592fb7f856f94a8705",
+      "epoch": 125,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 125
+        },
+        {
+          "capture": "B",
+          "epoch": 125
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f43a26a5c7ca7c4b558f703fa62ef4f33f6eb1ba01870139b06747fc0ec181f9",
+      "record_hash": "0x7865bdf718b7383dceb35677898514a3a707eafbd1e71026f8c53c14997ae80a",
+      "epoch": 126,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 126
+        },
+        {
+          "capture": "B",
+          "epoch": 126
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "a9b4a56e39353ed58eefd212405dae5056caee9bf7bf8c26e055a1d4bab4d61f",
+      "record_hash": "0x9c4d3adca7a007253adbe09c6ec8713391307d2a5a4779432fef0e5a51871c4e",
+      "epoch": 127,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 127
+        },
+        {
+          "capture": "B",
+          "epoch": 127
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "8f3355e3344e8dc9fadabc98a954fd1e939cc1f385bc9916cc80cf1ed7a0b561",
+      "record_hash": "0x9f66e932d938f379c4dce644ef439daaad9e5e5cddddad4ebd4a6bf8b7157c09",
+      "epoch": 128,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 128
+        },
+        {
+          "capture": "B",
+          "epoch": 128
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "9b1523c6b0b944d07fdb8b13ba18442a115cdbb3d1b484e615ed18b3b9feea21",
+      "record_hash": "0x97c3078076c69a04413ed4527aeb51949a84339d04280002e9d74c82c987441a",
+      "epoch": 129,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 129
+        },
+        {
+          "capture": "B",
+          "epoch": 129
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "aa0adca9a7bcb2a06442bcaff31738252f4e6fb9cadd93a7d76db8daa6f1c9ac",
+      "record_hash": "0x92a35f29701d84a79659bdd5f6e2c2ad474ffc171bab66cccd2b964b3f622f96",
+      "epoch": 130,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 130
+        },
+        {
+          "capture": "B",
+          "epoch": 130
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "4ed8511321a518404de0337000f554d064bd5e3165b41be8427ba45d922d030a",
+      "record_hash": "0x1580a9d1e6ff612a7823eb87f8c3ea02c96748d8939a601f2cd0a659e0b19253",
+      "epoch": 131,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 131
+        },
+        {
+          "capture": "B",
+          "epoch": 131
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "dc34d0b8ca877c55ac55bb2ca102a727e53e1052d495b0b0f7d392144e6bdf8b",
+      "record_hash": "0x15f99427f36400217b093b0cd3a0110a24eee5a7e5384f36b893e1321ae9a33f",
+      "epoch": 132,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 132
+        },
+        {
+          "capture": "B",
+          "epoch": 132
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "df08d9e3c22cbc83664500df27f67aa796ac59d37b8cdb9b74ac9adb8d4f5df4",
+      "record_hash": "0xc570d50b9cae5e054c7375f7dee542865c5fa6048f1c0738ebdabce37942a72b",
+      "epoch": 133,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 133
+        },
+        {
+          "capture": "B",
+          "epoch": 133
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "9021a41ab3f7171b3adb1ea7b6cdcf4bfe19d59a6c3dafd9065bca354d5052ec",
+      "record_hash": "0x5343b3d9e4239c52bfc2d7e8d946ed0c41b969b8fbb0e58f3f592d00ffa308d3",
+      "epoch": 134,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 134
+        },
+        {
+          "capture": "B",
+          "epoch": 134
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "1e5552c8c1f7df1a498ef41d79d8ade7c2aefeaa0300d5e6883b00dd11e1eb43",
+      "record_hash": "0xcfc1747e4e00dd4e78f36c1c78abeeca9356342164c21b49000eb4cd114041b6",
+      "epoch": 135,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 135
+        },
+        {
+          "capture": "B",
+          "epoch": 135
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "078fc56ded87d61dec0ede688f306b45a4b8f75ae580f449470e9190bed8de2a",
+      "record_hash": "0xf8e60193fbc58ae02d4d0bf5d31bf9777a6c6fc8ad6e57743fc7327586f556f4",
+      "epoch": 136,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 136
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "9662d76e6a779640f8b153de6517c4737abd88bbc7451d6f027086f4c1d07557",
+      "record_hash": "0x95a6851a91b77d9e1646b6134a21e8ca7f15f135f2835fcba7d3c333c5f4c04b",
+      "epoch": 137,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 137
+        },
+        {
+          "capture": "B",
+          "epoch": 137
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "007e0d07aa2ba4c4b4e0ecf6feb5198a116c90d691dfc786237f3abe9cd0db8b",
+      "record_hash": "0xa453ac692f23a6d92b3c58d19a4550d1a939ea38e4ebe256558a356830a8c9ac",
+      "epoch": 138,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 138
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "864cfc5f75cd2ad1007328e4bf5d831afc038b31e72018aafe4ae2589e697691",
+      "record_hash": "0xe565dc4d3f5174fab24aa5993899fa99a540053012530ef04f78a4763f4aa424",
+      "epoch": 139,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 139
+        },
+        {
+          "capture": "B",
+          "epoch": 139
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "e920460f92f1d9f678de8bd5090f5b322c1e246dee36e8ffb3d64020c873f194",
+      "record_hash": "0x215cf961e0448d6b3b4f3b4d72c901435ba7cc04280d9a9a360445e5e0941c1a",
+      "epoch": 140,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 140
+        },
+        {
+          "capture": "B",
+          "epoch": 140
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "4e4da9ee27c3e5e7c29fbdeda0d1532fbd5e3fc0680c5d99249c620d68d02693",
+      "record_hash": "0x3a4a16234787ae18afbcdd0d553f2241f1a5a2903ce25bcbf15f9d95492c12a9",
+      "epoch": 141,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 141
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "a39faa78d886bbf988eb711bcd94a9a176d8311e98e9f326ce688928b7baeef7",
+      "record_hash": "0xcb07b834250cbc85856efe4f10e6c3d819b0c4e4a215828a482b4edc3eac4eb1",
+      "epoch": 142,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 142
+        },
+        {
+          "capture": "B",
+          "epoch": 142
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5dad6b55a08b7edcc239c52ad35bdbb6c1d159069773be3ede6908a229f760b2",
+      "record_hash": "0x6e8eebe93411408df6e05e7ce7d64c3d0ab8f0d77fb6d08913a18e8313758cc4",
+      "epoch": 143,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 143
+        },
+        {
+          "capture": "B",
+          "epoch": 143
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d623216551e33a8b89a61d8b4329f2cec818888c25fb9e4cbd541fff7a3aee9c",
+      "record_hash": "0x8b16f3b6305b25a084eb6e0849f208929d31c6eee4539bb490f4503d305bd2fc",
+      "epoch": 144,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 144
+        },
+        {
+          "capture": "B",
+          "epoch": 144
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "54c6e846fef6d84af5ab3538b3d173cab6ddd008328baa1b42fa072d0e0e1e65",
+      "record_hash": "0xc1abc96f8732640c23e3872ac3963c0f4c5ba0c29826807fd42da7ad5d261954",
+      "epoch": 145,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 145
+        },
+        {
+          "capture": "B",
+          "epoch": 145
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "57fbb7e4ff558c4a7e391fcbeed302852b026b26b0b70308d5c9f00e926bee67",
+      "record_hash": "0xb345626864461c2c7991399a2ec897bf3009b92e6b36ab1afa41ca19d1e2eb3f",
+      "epoch": 146,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 146
+        },
+        {
+          "capture": "B",
+          "epoch": 146
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "88af62e6e6492abfb1c264c6bd3193acad43151d6fa11ee86839c44ee62b8023",
+      "record_hash": "0xeef01241a58d1c8c06b35df8a781d64338477f17542e068fb54a9e789db4f04f",
+      "epoch": 147,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 147
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "622edbbb6b95e523e2a1457e85fd20d7f0d2e17d6f065b2d5a84910ccf661afb",
+      "record_hash": "0x058626dba920bb8dc75ccc0371c9dce033b0e7da9d06faa34f627af48d25cd45",
+      "epoch": 148,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 148
+        },
+        {
+          "capture": "B",
+          "epoch": 148
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "966cc0ba446e23aedba15936be12a43d31a0728d89f9b6a62c0662ebd70d9501",
+      "record_hash": "0x53bf2c3a535ecff3993f98a535ff9bc1d4150d4141bf55614b0a91cd2a5a2777",
+      "epoch": 149,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 149
+        },
+        {
+          "capture": "B",
+          "epoch": 149
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "8f4dd839c6c9798c2adeade33eab18a0407063afc1fb05cdbbd412fe90fce2cf",
+      "record_hash": "0x2b19fa8a972cfc12e45a2336736c31698e379228edff5f147d0023c76bc2410c",
+      "epoch": 150,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 150
+        },
+        {
+          "capture": "B",
+          "epoch": 150
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "b6a0ff954e70b08c0ac04bc4b6db7e427422880b642652247e11eb09d50c0d8e",
+      "record_hash": "0x468ebbc1bb269416ee583d955af88993f997b103a34430b1f35b8788978d93ab",
+      "epoch": 151,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 151
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "bab758d7e5d58ed3a4286e2fd8a71fd05b6a4907dc2e757c4a0b35093e5df544",
+      "record_hash": "0x248a8d331131ce6d06fb699a85c4d559871405fcc82a857743342df3c0958b51",
+      "epoch": 152,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 152
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "738dab699060b7ad9cd04daf1cf3dd0b5eff0fe2e8dd2ea004a5ff1066a01d3e",
+      "record_hash": "0xf0fe336266d6fc3b7f445b227fe083aa2b9727e729df81854fe980e01e76de16",
+      "epoch": 153,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 153
+        },
+        {
+          "capture": "B",
+          "epoch": 153
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "e3318f11fc768b6dd95dd4a6940b9cb8fee61116c8e3a9953859f5b0ce2c624b",
+      "record_hash": "0xfacfea13b16e7f3f60e7ed014bc102ec07eb07378305696b4ccb2cb39f019014",
+      "epoch": 154,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 154
+        },
+        {
+          "capture": "B",
+          "epoch": 154
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "d2ac42308abdc17367c0aef85117d460145ed01dd6e59edfde6f63166b1d6821",
+      "record_hash": "0xbf2f971950a55a3c1a3ea8a977b5b56ff039ef38ceb98b4a9e07f5d9553bc452",
+      "epoch": 155,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 155
+        },
+        {
+          "capture": "B",
+          "epoch": 155
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "fac809ca1a4fadee7dffb38778dad9f03db013e795555d3d6cfb50ed96b15731",
+      "record_hash": "0xd2ef979c8bd6477a559e203afe39406562441a518951b2d59772b5605204e47c",
+      "epoch": 156,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 156
+        },
+        {
+          "capture": "B",
+          "epoch": 156
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "c0df1c7d71ebb5683b115c518953e26b43912b915a0a31c79ebc76dc54efbdf8",
+      "record_hash": "0x46b8873a45c8dec31c8c4761252c0c0f9dcd6f39c6b8908cc1e196ef01ed2724",
+      "epoch": 157,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 157
+        },
+        {
+          "capture": "B",
+          "epoch": 157
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "1aaeb71fd9724bbb1c0e6189550a487da09a57a9c8ac613f64d129da1edf9c6d",
+      "record_hash": "0x69b1c7d4eae79a32a8889911cc3bb5e9b8fb39aec2d3ac5e5d824adfc64aa3d3",
+      "epoch": 158,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 158
+        },
+        {
+          "capture": "B",
+          "epoch": 158
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "627ad6f59edb7a0957604793f7dc42da48cf05f1db12f487e5424e8ec45b56b7",
+      "record_hash": "0x1de6f3b94ba13233bd9b6bc5586ac2203f7e7ee352265b197b5b7ed3a1dcdbc5",
+      "epoch": 159,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 159
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "b6306bdc8b57251b88c46cf84b81f9e352d758f8ddb750dc8b8b17324bb3cb23",
+      "record_hash": "0xb8d98902eebf1cbe5d57b2f5921ddf163492f46130dbc47be3331c3ebc6ccbc0",
+      "epoch": 160,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 160
+        },
+        {
+          "capture": "B",
+          "epoch": 160
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "2b862b13233da4ffd100cf4cc342f7cb498fec1bea9ae1a49007e2495e219302",
+      "record_hash": "0x2fbe73e501cece3c9f65f23b37e84cf44292565b20235801f21866ad961bafd4",
+      "epoch": 161,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 161
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "f79f22aa9c4e4f5ada9306dbc6447c67ee4243d87b015e419aa937e3106e29fa",
+      "record_hash": "0x5d360f7a8db55a28f5e2965d4b5a25bae950bb5273dd1998c49c460a1357c31f",
+      "epoch": 162,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 162
+        },
+        {
+          "capture": "B",
+          "epoch": 162
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "003269cf36a550324c9cbef443a3a833b144e85377b23a72777e0babde6f8d06",
+      "record_hash": "0xd3ac096e938cc9f618687212c880cfd68f424e0ea734891891f8b99ba48f987b",
+      "epoch": 163,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 163
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "660eceab911478f9b22821ab3e22fc8dc72dd9e7053636d43935a788256f7865",
+      "record_hash": "0x9c428fc2cf98e621c966cff33dfe276da0cb7660c9b410e99dc21cab3b4d4487",
+      "epoch": 164,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 164
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5cdf5b7b7ad7ed425853d692870d3486dd51e35a0ea32fe4fc1d699e7830267b",
+      "record_hash": "0xfe855a6bf5d07d82383bc278f2dcccdd67aa7f46dd70adc83ed7ae70567652be",
+      "epoch": 165,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 165
+        },
+        {
+          "capture": "B",
+          "epoch": 165
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "7969d681c7c926b11ed4cf1a26eed00730c32455c8c12873737c157ea6292791",
+      "record_hash": "0x2e7468831113ce47c25b99ce2ed895e08b2964b9cec5fa8793ef43f1ccc95736",
+      "epoch": 166,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 166
+        },
+        {
+          "capture": "B",
+          "epoch": 166
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "1e4b1569010565a4d7344d2657ac1f255be57591a010ae84aa7a45b4d665d2fc",
+      "record_hash": "0x86cdc07abd568323a0473ae1d5a671a0281169055219a0338f5ce756cdc9d2ee",
+      "epoch": 167,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 167
+        },
+        {
+          "capture": "B",
+          "epoch": 167
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "86bc3a865d0baa199246fabefab469681c5f5e30854fa77bd7e687ebaefbe0e0",
+      "record_hash": "0x1a5800e4a70acd8444193729f6eebc6450254b1d69e772303001401476ebb16f",
+      "epoch": 168,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 168
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "fdbca90784bf3db26d59cd5f0161395301cdb57fb9c6772cd554dcd550cc8d40",
+      "record_hash": "0xd13c53ead723f2f008278c1273496192f6290f670e4fa413eb8a66b0006108cd",
+      "epoch": 169,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 169
+        },
+        {
+          "capture": "B",
+          "epoch": 169
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "90a477827415caa9fe04bc04e3affd824d29119e212698c8a216980cea66c376",
+      "record_hash": "0x8fc71f54d1212b0e7c15251c6d57e48b3162923aaaae1471faf124ce66c316bc",
+      "epoch": 170,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 170
+        },
+        {
+          "capture": "B",
+          "epoch": 170
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "77f41d9bee388694f61a8a3ae30b5e1ac6ade30733926d373b414b0f4a5f6671",
+      "record_hash": "0x31a6e033455f7e2287fa0170279ccb98b2f78246872eeca800481d0792622a39",
+      "epoch": 171,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 171
+        },
+        {
+          "capture": "B",
+          "epoch": 171
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "4c39fa23bd3896d5d0ba03b62297e4cae32355a3c9ff7db237d3c424d0e2f315",
+      "record_hash": "0x71cfa6e2a8a4221124d496f283609681d77ac04f18950a66f04110299f314de0",
+      "epoch": 172,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 172
+        },
+        {
+          "capture": "B",
+          "epoch": 172
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "fd314c9afda352152181f0a60aae217f1e3dc401a1ecd2682ad95548dc68f821",
+      "record_hash": "0xd76f95ae013286a68c5f0fb106dac7bf9b617580963e915c7bb373c6ed09ca12",
+      "epoch": 173,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 173
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "3c34bd391b47ea3e932ce793f3e0ead9e8d1f7630b0e2dadc6ba277c099823fb",
+      "record_hash": "0x050bbe3cfaa06d28b98a42451371bb002a4488ada4c7287202dfcdd7edd1f9cc",
+      "epoch": 174,
+      "observations": [
+        {
+          "capture": "A",
+          "epoch": 174
+        },
+        {
+          "capture": "B",
+          "epoch": 174
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "eba462e0f24e208108446b127df92f390b7d4ab0e60b3c694c7ca6f709c85f67",
+      "record_hash": "0xf8e60193fbc58ae02d4d0bf5d31bf9777a6c6fc8ad6e57743fc7327586f556f4",
+      "epoch": 136,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 136
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6d244364c01f9a9d724eaf384ee88657e90341798a9d5f1b0af41075937a33f2",
+      "record_hash": "0xa453ac692f23a6d92b3c58d19a4550d1a939ea38e4ebe256558a356830a8c9ac",
+      "epoch": 138,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 138
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "6067102931508c3dd075865bc9e291818af4f438d0d490e4f5ccea94acd96ff1",
+      "record_hash": "0x3a4a16234787ae18afbcdd0d553f2241f1a5a2903ce25bcbf15f9d95492c12a9",
+      "epoch": 141,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 141
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "0ffdcfb8a55c560b5e6b8b28859a3b664f73c234bda54da8ef7a5526c5513438",
+      "record_hash": "0xeef01241a58d1c8c06b35df8a781d64338477f17542e068fb54a9e789db4f04f",
+      "epoch": 147,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 147
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "e52a842251ddb3f28549a162adf5ed752ddc335bfeda6769c01a50e4285f6aa6",
+      "record_hash": "0x468ebbc1bb269416ee583d955af88993f997b103a34430b1f35b8788978d93ab",
+      "epoch": 151,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 151
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "b71673351f190430fff192a0e0e7580f45e7cf91a0d082a3290def5c52750b9c",
+      "record_hash": "0x248a8d331131ce6d06fb699a85c4d559871405fcc82a857743342df3c0958b51",
+      "epoch": 152,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 152
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "2b3c0d372f79a78a0018c7520c6b84c5b4c79fb1568080a9e777654abb00c650",
+      "record_hash": "0x1de6f3b94ba13233bd9b6bc5586ac2203f7e7ee352265b197b5b7ed3a1dcdbc5",
+      "epoch": 159,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 159
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "03cd01272f662afcdd160ec82a18526f96e9d4cbbf1d2224d8748f77a482543b",
+      "record_hash": "0x2fbe73e501cece3c9f65f23b37e84cf44292565b20235801f21866ad961bafd4",
+      "epoch": 161,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 161
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "5ee92c80373755abedb90402d298abd56b03a5f52fb05c84f0dec5937b0cb9c4",
+      "record_hash": "0xd3ac096e938cc9f618687212c880cfd68f424e0ea734891891f8b99ba48f987b",
+      "epoch": 163,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 163
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "85bc7af7aae425ab8514711720214235c84581e43abc9d78f3a29bb7bbcd7612",
+      "record_hash": "0x9c428fc2cf98e621c966cff33dfe276da0cb7660c9b410e99dc21cab3b4d4487",
+      "epoch": 164,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 164
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "44407f6950aa05751f8829355d98eb60bb1eb11a66374678cb9d0d9c610166c3",
+      "record_hash": "0x1a5800e4a70acd8444193729f6eebc6450254b1d69e772303001401476ebb16f",
+      "epoch": 168,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 168
+        }
+      ],
+      "py_ecc_valid": true
+    },
+    {
+      "certificate_identity_sha256": "ec5d752ecb95783df2ebe51eb1b03deaaac2aedab244ef8c0d753014f8db1006",
+      "record_hash": "0xd76f95ae013286a68c5f0fb106dac7bf9b617580963e915c7bb373c6ed09ca12",
+      "epoch": 173,
+      "observations": [
+        {
+          "capture": "B",
+          "epoch": 173
+        }
+      ],
+      "py_ecc_valid": true
+    }
+  ]
+}

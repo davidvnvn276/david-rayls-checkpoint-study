@@ -1,0 +1,152 @@
+PASS: epoch 136, original certificate
+PASS: epoch 136, recaptured certificate
+PASS: epoch 138, original certificate
+PASS: epoch 138, recaptured certificate
+PASS: epoch 141, original certificate
+PASS: epoch 141, recaptured certificate
+PASS: epoch 147, original certificate
+PASS: epoch 147, recaptured certificate
+PASS: epoch 151, original certificate
+PASS: epoch 151, recaptured certificate
+PASS: epoch 152, original certificate
+PASS: epoch 152, recaptured certificate
+PASS: epoch 159, original certificate
+PASS: epoch 159, recaptured certificate
+PASS: epoch 161, original certificate
+PASS: epoch 161, recaptured certificate
+PASS: epoch 163, original certificate
+PASS: epoch 163, recaptured certificate
+PASS: epoch 164, original certificate
+PASS: epoch 164, recaptured certificate
+PASS: epoch 168, original certificate
+PASS: epoch 168, recaptured certificate
+PASS: epoch 173, original certificate
+PASS: epoch 173, recaptured certificate
+{
+  "status": "passed",
+  "record_commitments": 12,
+  "certificate_checks": 24,
+  "implementation": "py_ecc 8.0.0",
+  "checks": [
+    {
+      "epoch": 136,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 136,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 138,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 138,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 141,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 141,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 147,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 147,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 151,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 151,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 152,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 152,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 159,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 159,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 161,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 161,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 163,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 163,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 164,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 164,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 168,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 168,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 173,
+      "capture": "original",
+      "py_ecc_valid": true
+    },
+    {
+      "epoch": 173,
+      "capture": "recaptured",
+      "py_ecc_valid": true
+    }
+  ]
+}

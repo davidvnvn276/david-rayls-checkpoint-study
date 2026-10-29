@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "files_checked": 120,
+  "mismatches": [],
+  "scope": "Listed distribution files only; extra local environments and audit outputs are allowed.",
+  "limit": "File consistency, not publisher, RPC or canonical-chain authentication."
+}

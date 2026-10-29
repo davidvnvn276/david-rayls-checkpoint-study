@@ -1,0 +1,28 @@
+[01/10] publication-integrity
+PASS: publication-integrity
+[02/10] review-integrity
+PASS: review-integrity
+[03/10] original-integrity
+PASS: original-integrity
+[04/10] original-checkpoints
+PASS: original-checkpoints
+[05/10] original-headers
+PASS: original-headers
+[06/10] recaptured-checkpoints
+PASS: recaptured-checkpoints
+[07/10] recaptured-headers
+PASS: recaptured-headers
+[08/10] capture-comparison
+PASS: capture-comparison
+[09/10] alternate-certificates-pyecc
+PASS: alternate-certificates-pyecc
+[10/10] encoding-recipes
+PASS: encoding-recipes
+{
+  "status": "passed",
+  "steps_completed": 10,
+  "expected_steps": 10,
+  "seconds": 32.637,
+  "error": null
+}
+Report: /workspace/scratch/66b6ca88467c/tmp/checkpoint-review-20261029/final-reviewed-validation/baseline/audit-summary.json

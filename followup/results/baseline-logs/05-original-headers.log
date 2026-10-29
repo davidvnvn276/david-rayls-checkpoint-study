@@ -1,0 +1,29 @@
+{
+  "scope": "Three captured checkpoint headers; no full execution replay or transaction inclusion proof",
+  "headers_checked": [
+    {
+      "epoch": 0,
+      "block": 1,
+      "signed_hash": "0x02a4902df46b4c5d38d09f857588808e451013002ad483ba941814f68ec33014",
+      "computed_header_hash": "0x02a4902df46b4c5d38d09f857588808e451013002ad483ba941814f68ec33014",
+      "rlp_bytes": 643,
+      "local_gasUsed_mutation_detected": true
+    },
+    {
+      "epoch": 173,
+      "block": 12884728,
+      "signed_hash": "0x19d02a83c932a402b4b2e22ba83aedacb02c8f4a9e2773a5798d3eee912657f5",
+      "computed_header_hash": "0x19d02a83c932a402b4b2e22ba83aedacb02c8f4a9e2773a5798d3eee912657f5",
+      "rlp_bytes": 646,
+      "local_gasUsed_mutation_detected": true
+    },
+    {
+      "epoch": 174,
+      "block": 12948967,
+      "signed_hash": "0x847a7f69531b4134dfdeb4d5d012a85fa8f8ee2239ed8e006936a4aad7a1db08",
+      "computed_header_hash": "0x847a7f69531b4134dfdeb4d5d012a85fa8f8ee2239ed8e006936a4aad7a1db08",
+      "rlp_bytes": 646,
+      "local_gasUsed_mutation_detected": true
+    }
+  ]
+}

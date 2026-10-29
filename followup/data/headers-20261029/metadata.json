@@ -1,0 +1,34 @@
+{
+  "endpoint": "https://mainnet-rpc.rayls.com/",
+  "requested_at_utc": "2026-10-29T05:15:07.166707+00:00",
+  "request": [
+    {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "method": "eth_chainId",
+      "params": []
+    },
+    {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "method": "web3_clientVersion",
+      "params": []
+    }
+  ],
+  "request_body_utf8": "[{\"jsonrpc\":\"2.0\",\"id\":0,\"method\":\"eth_chainId\",\"params\":[]},{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"web3_clientVersion\",\"params\":[]}]",
+  "http_status": 200,
+  "response_body_utf8": "[{\"jsonrpc\":\"2.0\",\"id\":0,\"result\":\"0x11cfd\"},{\"jsonrpc\":\"2.0\",\"id\":1,\"result\":\"1.4.1 (6909618ba3d178884e613b329a99816ba546f62e)\"}]",
+  "response": [
+    {
+      "jsonrpc": "2.0",
+      "id": 0,
+      "result": "0x11cfd"
+    },
+    {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": "1.4.1 (6909618ba3d178884e613b329a99816ba546f62e)"
+    }
+  ],
+  "received_at_utc": "2026-10-29T05:15:12.202337+00:00"
+}

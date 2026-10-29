@@ -1,0 +1,112 @@
+{
+  "scope": "Captured mainnet epoch certificates, independently processed offline; not full state replay or a production light client",
+  "canonical_identity_limit": "The initial committee and root checkpoint were observed from the same public RPC. No independently authenticated out-of-band genesis/committee anchor has been established. Later records are verified relative to this explicit observed anchor, not proven canonical solely by their signatures.",
+  "records_verified": 175,
+  "first_epoch": 0,
+  "last_epoch": 174,
+  "parent_links_verified": 174,
+  "committee_transitions_checked": 174,
+  "committee_size_counts": {
+    "7": 172,
+    "8": 3
+  },
+  "signer_count_counts": {
+    "7": 71,
+    "5": 38,
+    "6": 65,
+    "8": 1
+  },
+  "committee_changes": [
+    {
+      "first_epoch_with_new_committee": 172,
+      "before": 7,
+      "after": 8,
+      "added_keys": 1,
+      "removed_keys": 0
+    }
+  ],
+  "blake3_hash_matches": 175,
+  "keccak_hash_matches_for_same_BCS_bytes": 0,
+  "second_library_checks": [
+    {
+      "epoch": 0,
+      "valid": true
+    },
+    {
+      "epoch": 173,
+      "valid": true
+    },
+    {
+      "epoch": 174,
+      "valid": true
+    }
+  ],
+  "offline_boundary_controls": [
+    {
+      "test": "alter checkpoint hash without rehashing",
+      "passed": true,
+      "observed": "record hash mismatch"
+    },
+    {
+      "test": "alter checkpoint hash and recompute digest, retaining old signature",
+      "passed": true,
+      "observed": "BLS verification failed"
+    },
+    {
+      "test": "splice signature from another epoch",
+      "passed": true,
+      "observed": "BLS verification failed"
+    },
+    {
+      "test": "remove one signer while retaining aggregate signature and enough claimed quorum",
+      "passed": true,
+      "observed": "BLS verification failed"
+    },
+    {
+      "test": "below six-of-eight signer quorum",
+      "passed": true,
+      "observed": "insufficient signer quorum"
+    },
+    {
+      "test": "out-of-range signer bitmap",
+      "passed": true,
+      "observed": "invalid signer index"
+    },
+    {
+      "test": "wrong signature app domain",
+      "passed": true,
+      "observed": "BLS verification failed"
+    },
+    {
+      "test": "omit BCS hash-length prefix in signed message",
+      "passed": true,
+      "observed": "BLS verification failed"
+    },
+    {
+      "test": "point-at-infinity signature",
+      "passed": true,
+      "observed": "infinity signature"
+    },
+    {
+      "test": "synthetic replacement committee passes self-signature mathematics",
+      "passed": true,
+      "observed": "valid synthetic certificate, not an authentic Rayls certificate"
+    },
+    {
+      "test": "same self-signed replacement fails prior authenticated committee check",
+      "passed": true,
+      "observed": "unexpected committee"
+    },
+    {
+      "test": "delete one epoch from chain",
+      "passed": true,
+      "observed": "missing or unexpected epoch"
+    },
+    {
+      "test": "change observed anchor hash",
+      "passed": true,
+      "observed": "anchor mismatch"
+    }
+  ],
+  "total_controls": 13
+}

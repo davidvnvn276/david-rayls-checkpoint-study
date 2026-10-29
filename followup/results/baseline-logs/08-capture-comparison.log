@@ -1,0 +1,107 @@
+{
+  "status": "passed",
+  "unchanged_record_objects_and_hashes": 175,
+  "valid_chains": 2,
+  "unchanged_certificates": 163,
+  "changed_certificates": 12,
+  "identical_header_responses": 3,
+  "certificate_pairs": [
+    {
+      "epoch": 136,
+      "record_hash": "0xf8e60193fbc58ae02d4d0bf5d31bf9777a6c6fc8ad6e57743fc7327586f556f4",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 7,
+      "recaptured_signers": 5
+    },
+    {
+      "epoch": 138,
+      "record_hash": "0xa453ac692f23a6d92b3c58d19a4550d1a939ea38e4ebe256558a356830a8c9ac",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 7,
+      "recaptured_signers": 5
+    },
+    {
+      "epoch": 141,
+      "record_hash": "0x3a4a16234787ae18afbcdd0d553f2241f1a5a2903ce25bcbf15f9d95492c12a9",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 7,
+      "recaptured_signers": 6
+    },
+    {
+      "epoch": 147,
+      "record_hash": "0xeef01241a58d1c8c06b35df8a781d64338477f17542e068fb54a9e789db4f04f",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 5,
+      "recaptured_signers": 7
+    },
+    {
+      "epoch": 151,
+      "record_hash": "0x468ebbc1bb269416ee583d955af88993f997b103a34430b1f35b8788978d93ab",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 5,
+      "recaptured_signers": 7
+    },
+    {
+      "epoch": 152,
+      "record_hash": "0x248a8d331131ce6d06fb699a85c4d559871405fcc82a857743342df3c0958b51",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 5,
+      "recaptured_signers": 7
+    },
+    {
+      "epoch": 159,
+      "record_hash": "0x1de6f3b94ba13233bd9b6bc5586ac2203f7e7ee352265b197b5b7ed3a1dcdbc5",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 5,
+      "recaptured_signers": 6
+    },
+    {
+      "epoch": 161,
+      "record_hash": "0x2fbe73e501cece3c9f65f23b37e84cf44292565b20235801f21866ad961bafd4",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 7,
+      "recaptured_signers": 5
+    },
+    {
+      "epoch": 163,
+      "record_hash": "0xd3ac096e938cc9f618687212c880cfd68f424e0ea734891891f8b99ba48f987b",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 6,
+      "recaptured_signers": 5
+    },
+    {
+      "epoch": 164,
+      "record_hash": "0x9c428fc2cf98e621c966cff33dfe276da0cb7660c9b410e99dc21cab3b4d4487",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 7,
+      "recaptured_signers": 5
+    },
+    {
+      "epoch": 168,
+      "record_hash": "0x1a5800e4a70acd8444193729f6eebc6450254b1d69e772303001401476ebb16f",
+      "committee_size": 7,
+      "required_signers": 5,
+      "original_signers": 6,
+      "recaptured_signers": 7
+    },
+    {
+      "epoch": 173,
+      "record_hash": "0xd76f95ae013286a68c5f0fb106dac7bf9b617580963e915c7bb373c6ed09ca12",
+      "committee_size": 8,
+      "required_signers": 6,
+      "original_signers": 6,
+      "recaptured_signers": 7
+    }
+  ],
+  "limit": "Both captures use the same observed anchor from the same endpoint."
+}

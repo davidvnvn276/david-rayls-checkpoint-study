@@ -1,0 +1,27 @@
+py_ecc: 1/187 distinct certificates passed
+py_ecc: 20/187 distinct certificates passed
+py_ecc: 40/187 distinct certificates passed
+py_ecc: 60/187 distinct certificates passed
+py_ecc: 80/187 distinct certificates passed
+py_ecc: 100/187 distinct certificates passed
+py_ecc: 120/187 distinct certificates passed
+py_ecc: 140/187 distinct certificates passed
+py_ecc: 160/187 distinct certificates passed
+py_ecc: 180/187 distinct certificates passed
+py_ecc: 187/187 distinct certificates passed
+{
+  "status": "passed",
+  "review_date_utc": "2026-10-29T05:25:55.267925+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "captured_observations": 350,
+  "distinct_record_commitments": 175,
+  "distinct_certificates_checked_with_py_ecc": 187,
+  "covered_observations": 350,
+  "second_library_passes": 187,
+  "synthetic_scenarios": 7,
+  "synthetic_positive_controls": 2,
+  "synthetic_expected_rejections": 5,
+  "seconds": 173.143,
+  "scope": "Complete saved-certificate second-library review and separate synthetic offline verifier controls; no live RPC queries or transactions.",
+  "trust_limit": "Initial mainnet committee remains observed, not independently authenticated. Deduplicated certificates are not additional checkpoints or independent experiments."
+}

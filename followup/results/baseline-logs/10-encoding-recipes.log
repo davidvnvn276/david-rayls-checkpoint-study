@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "matches": {
+    "u32_blake3": 175,
+    "u32_keccak": 0,
+    "u64_blake3": 0,
+    "u64_keccak": 0
+  },
+  "vectors": {
+    "0": {
+      "bcs_record_length": 1471,
+      "intent_length": 36,
+      "intent_hex": "0100012077476aab33226e0db41008e6492234b970d3f942182321b37cc1b605f895d622",
+      "record_hash": "0x77476aab33226e0db41008e6492234b970d3f942182321b37cc1b605f895d622"
+    },
+    "173": {
+      "bcs_record_length": 1665,
+      "intent_length": 36,
+      "intent_hex": "01000120d76f95ae013286a68c5f0fb106dac7bf9b617580963e915c7bb373c6ed09ca12",
+      "record_hash": "0xd76f95ae013286a68c5f0fb106dac7bf9b617580963e915c7bb373c6ed09ca12"
+    },
+    "174": {
+      "bcs_record_length": 1665,
+      "intent_length": 36,
+      "intent_hex": "01000120050bbe3cfaa06d28b98a42451371bb002a4488ada4c7287202dfcdd7edd1f9cc",
+      "record_hash": "0x050bbe3cfaa06d28b98a42451371bb002a4488ada4c7287202dfcdd7edd1f9cc"
+    }
+  },
+  "scope": "Offline recipe sensitivity; not additional mainnet transactions."
+}

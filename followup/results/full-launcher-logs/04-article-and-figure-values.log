@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "figures": [
+    {
+      "file": "01-checkpoint-banner.png",
+      "pixels": [
+        3200,
+        1280
+      ],
+      "original_logo_sha256": "75e95e00b76d284facc82f1bd67f9abe344df454349d39d9a3a111293a7041b1"
+    },
+    {
+      "file": "02-exact-signed-bytes.png",
+      "pixels": [
+        3200,
+        1800
+      ],
+      "original_logo_sha256": "75e95e00b76d284facc82f1bd67f9abe344df454349d39d9a3a111293a7041b1"
+    },
+    {
+      "file": "03-valid-certificate-variants.png",
+      "pixels": [
+        3200,
+        1800
+      ],
+      "original_logo_sha256": "75e95e00b76d284facc82f1bd67f9abe344df454349d39d9a3a111293a7041b1"
+    },
+    {
+      "file": "04-authority-and-header-commitments.png",
+      "pixels": [
+        3200,
+        1800
+      ],
+      "original_logo_sha256": "75e95e00b76d284facc82f1bd67f9abe344df454349d39d9a3a111293a7041b1"
+    }
+  ],
+  "article_words": 2020,
+  "scope": "Publication consistency, not a substitute for cryptographic execution."
+}
